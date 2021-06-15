@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "NeuralSec"
+title                    : "About Me"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Derui (Derek) Wang (王德睿)"
+  name             : "Derui (Derek) Wang 王德睿"
   avatar           : "bio-photo.jpg"
   bio              : "Adversaria doctrina apparatus."
   location         : "Melbourne, Australia"
   employer         :
   googlescholar    : "https://scholar.google.com.au/citations?user=uAbiaaUAAAAJ&hl=en"
-  email            : "derek[dot]wang[at]data61[dot]csiro[dot]au"
+  email            : "derek.wang@data61.csiro.au"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -95,17 +95,17 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/NeuralSec"
+  github           : "NeuralSec"
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      :
   lastfm           :
   linkedin         : "https://www.linkedin.com/in/derek-wang/"
   orcid            : "https://orcid.org/0000-0003-1388-7715"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
   twitter          :
