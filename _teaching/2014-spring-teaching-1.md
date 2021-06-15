@@ -1,18 +1,12 @@
 ---
-title: "Tutoring experience"
+title: "Tutoring experience 1"
 collection: teaching
 type: "Undergraduate/Postgraduate labs"
 permalink: /teaching/Lab
-venue: "Deakin University, School of IT / Swinburne University of Technology, School of Software and Electrical Engineering"
-date: 2020-05-30
+venue: "Deakin University, School of Information Technology / Swinburne University of Technology, School of Software and Electrical Engineering"
+date: 2014-01-01
 location: "Melbourne, Australia"
 ---
-
-CYB80001 - System Security Project (2020)
- 
-SIT742 - Modern Data Science (2019)
-
-SIT744 - Practical Machine Learning for Data Science (2019)
 
 SIT720 - Machine Learning (2018)
 
