@@ -11,9 +11,9 @@ title                    : "About Me"
 title_separator          : "-"
 name                     : &name "Derui (Derek) Wang"
 description              : &description "Researcher in machine learning security & privacy."
-url                      : https://NeuralSec.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://neuralsec.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "NeuralSec.github.io"
+repository               : "neuralsec.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Derui (Derek) Wang 王德睿"
   avatar           : "bio-photo.jpg"
-  bio              : "Adversaria doctrina apparatus."
+  bio              : "Researcher in machine learning security & privacy."
   location         : "Melbourne, Australia"
   employer         :
   googlescholar    : "https://scholar.google.com.au/citations?user=uAbiaaUAAAAJ&hl=en"
