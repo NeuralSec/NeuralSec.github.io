@@ -9,38 +9,27 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Alma Mater
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2017--2020 Ph.D., Computer Science, Swinburne University of Technology/CSIRO Data61.
   
-Skills
+*  2014--2016 M.Sc., Computer Science, Deakin University.
+
+*  2007--2011 B.En., Optical and Electronic Information, Huazhong University of Science and Technology.
+
+Work & Teaching experience
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 2020.11--Present CERC postdoctoral fellow, MLAI Future Science Platform, CSIRO's Data61
+  
+* 2020--2021 Guest Lecturer, Swinburne University of Technology
+
+* 2019--2020 Teaching Assistant, Swinburne University of Technology
+
+* 2015--2019 Teaching Assistant, Computer Science, Deakin University
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+See my [Google Scholar](https://scholar.google.com.au/citations?user=uAbiaaUAAAAJ&hl=en)
   
 Talks
 ======
@@ -53,7 +42,3 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
