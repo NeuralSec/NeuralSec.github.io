@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "About Me"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Derui (Derek) Wang"
+description              : &description "Researcher in machine learning security & privacy."
 url                      : https://neuralsec.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "NeuralSec/neuralsec.github.io"
@@ -208,16 +208,16 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
-  #- scope:
-  #    path: ""
-  #    type: teaching
-  #  values:
-  #    layout: single
-  #    author_profile: true
-  #    share: true
-  #    comments: true
-  # _publications
+   _teaching
+  - scope:
+      path: ""
+      type: teaching
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+   _publications
   - scope:
       path: ""
       type: publications
@@ -226,16 +226,16 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
-  #- scope:
-  #    path: ""
-  #    type: portfolio
-  #  values:
-  #    layout: single
-  #    author_profile: true
-  #    share: true
-  #    comment: true
-  # _talks
+   _portfolio
+  - scope:
+      path: ""
+      type: portfolio
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+   _talks
   - scope:
       path: ""
       type: talks
