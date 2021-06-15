@@ -1,5 +1,5 @@
 ---
-title: "Tutoring experience 2"
+title: "Tutoring experience 3"
 collection: teaching
 type: "Postgraduate labs"
 permalink: /teaching/Lab
@@ -8,4 +8,4 @@ date: 2019-01-01
 location: "Melbourne, Australia"
 ---
 
-SIT742 - Modern Data Science (2019)
+SIT742 - Modern Data Science

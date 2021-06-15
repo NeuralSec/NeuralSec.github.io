@@ -1,14 +1,11 @@
 ---
-title: "Tutoring experience 10"
+title: "Tutoring experience 5"
 collection: teaching
-type: "Undergraduate/Postgraduate labs"
+type: "Undergraduate labs"
 permalink: /teaching/Lab
 venue: "Deakin University, School of Information Technology"
-date: 2014-01-01
+date: 2018-01-01
 location: "Melbourne, Australia"
 ---
 
-SIT374/SIT764 - Project Management
-
-
-
+SIT282 - Computer Crime and Digital Forensics

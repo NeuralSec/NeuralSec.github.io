@@ -1,5 +1,5 @@
 ---
-title: "Tutoring experience 3"
+title: "Tutoring experience 2"
 collection: teaching
 type: "Postgraduate labs"
 permalink: /teaching/Lab
@@ -8,4 +8,4 @@ date: 2019-01-01
 location: "Melbourne, Australia"
 ---
 
-SIT744 - Practical Machine Learning for Data Science (2019)
+SIT744 - Practical Machine Learning for Data Science

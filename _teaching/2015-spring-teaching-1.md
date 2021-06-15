@@ -1,14 +1,11 @@
 ---
-title: "Tutoring experience 10"
+title: "Tutoring experience 9"
 collection: teaching
-type: "Undergraduate/Postgraduate labs"
+type: "Postgraduate labs"
 permalink: /teaching/Lab
 venue: "Deakin University, School of Information Technology"
-date: 2014-01-01
+date: 2015-01-01
 location: "Melbourne, Australia"
 ---
 
-SIT374/SIT764 - Project Management
-
-
-
+SIT772 - Database And Information Retrieval (from 2015 to 2017)
