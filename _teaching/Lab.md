@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate/Postgraduate labs"
 permalink: /teaching/Lab
 venue: "Deakin University, School of IT / Swinburne University of Technology, School of Software and Electrical Engineering"
-date: 2020
+date: 2020-05-30
 location: "Melbourne, Australia"
 ---
 
