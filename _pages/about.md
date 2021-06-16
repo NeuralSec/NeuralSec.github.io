@@ -12,4 +12,4 @@ I received my Bachelor degree from Huazhong University of Technology, China. I w
 
 My primary research interest resides in adversarial machine learning and AI-related cybersecurity. My other research interests include deep neural networks, applied machine learning, decision-making systems, and complex networks. I play drums in my spare time since 2013. Table tennis is my favourite weekly sport.
 
-(/images/header-bg.jpg)
+[](/images/header-bg.jpg)
