@@ -2,7 +2,7 @@
 title: "Tutoring experience 5"
 collection: teaching
 type: "Undergraduate labs"
-permalink: /teaching/Lab
+permalink: /teaching/2018-spring-teaching-2
 venue: "Deakin University, School of Information Technology"
 date: 2018-01-01
 location: "Melbourne, Australia"
