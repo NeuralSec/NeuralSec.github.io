@@ -8,7 +8,10 @@ main:
 
   - title: "Teaching"
     url: /teaching/    
-    
+  
+  - title: "Selected Awards"
+    url: /awards/
+
   - title: "Blog Posts"
     url: /year-archive/
     
