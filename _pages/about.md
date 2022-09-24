@@ -15,5 +15,5 @@ My primary research interest resides in adversarial machine learning and AI-rela
 
 ### Selected Awards
 
-- CSIRO Data61 Scholarship
-- Third price, Chinese Physics Olympiad (CPhO)
+  * CSIRO Data61 Scholarship
+  * Third price, Chinese Physics Olympiad (CPhO)
