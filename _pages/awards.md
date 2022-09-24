@@ -5,5 +5,6 @@ permalink: /awards/
 author_profile: true
 ---
 
-  * CSIRO Data61 Scholarship
-  * Third price, Chinese Physics Olympiad (CPhO)
+* CSIRO Data61 Scholarship
+
+* Third price, Chinese Physics Olympiad (CPhO)
