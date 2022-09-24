@@ -1,11 +1,8 @@
 ---
-permalink: /
+layout: archive
 title: "Selected Awards"
-excerpt: "Selected awards"
+permalink: /awards/
 author_profile: true
-redirect_from: 
-  - /awards/
-  - /awards.html
 ---
 
   * CSIRO Data61 Scholarship
