@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "About Me"
 title_separator          : "-"
 name                     : &name "Derui (Derek) Wang"
-description              : &description "Machine Learning Security & Privacy."
+description              : &description "Machine Learning\\Security & Privacy"
 url                      : https://neuralsec.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "NeuralSec/neuralsec.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Derui (Derek) Wang 王德睿"
   avatar           : "bio-photo.jpg"
-  bio              : "Machine Learning Security & Privacy."
+  bio              : "Machine Learning\\Security & Privacy"
   location         : "Melbourne, Australia"
   employer         :
   googlescholar    : "https://scholar.google.com.au/citations?user=uAbiaaUAAAAJ&hl=en"
