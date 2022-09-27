@@ -7,4 +7,4 @@ author_profile: true
 
 * CSIRO Data61 Scholarship
 
-* Third Prize, Chinese Physics Olympiad (CPhO)
+* Third Prize, Chinese Physics Olympiad
