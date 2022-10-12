@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-I received my Bachelor degree from Huazhong University of Science & Technology (HUST), China and my doctoral degree in Australia. I am currently a CERC postdoctoral fellow with CSIRO's Data61. I am working under Machine Learning & Artificial Intelligence Future Science Platform.
+I received my Bachelor's degree from Huazhong University of Science & Technology (HUST), China and my doctoral degree in Australia. I am currently a CERC postdoctoral fellow with CSIRO's Data61. I am working under Machine Learning & Artificial Intelligence Future Science Platform.
 
-My primary research interest resides in adversarial machine learning and AI-related cybersecurity. My other research interests include adversarial robustness verification, neural backdoors, and real-world security & privacy issues of machine learning systems. I have been playing drums in my spare time since 2013. Table tennis is my favourite weekly sports.
+My primary research interest resides in adversarial machine learning and AI-related cybersecurity. My other research interests include adversarial robustness verification, neural backdoors, and real-world security & privacy issues of machine learning systems. I have been playing drums in my spare time since 2013. Table tennis is my favourite weekly sport.
