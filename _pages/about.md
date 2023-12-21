@@ -14,10 +14,10 @@ My primary research interest resides in the joint distribution of adversarial ro
 
 
 **News**
-- One paper is accepted to AAAI'24
-- One paper is accepted to NeurIPS'23
-- One paper is accepted to IEEE SP'23
-- One paper is accepted to NDSS'23
+[**Dec. 2023**] Our paper in reinforcement adversarial attack against video recognition is accepted to AAAI'24.\
+[**Oct. 2023**] One paper in face recognition anti-spoofing is accepted to NeurIPS'23.\
+[**Nov. 2022**] One paper in style-transfer-based adversarial attack against video classification sytems is accepted to IEEE SP'23.\
+[**Oct. 2022**] Our paper in neural backdoor detection is accepted to NDSS'23.\
 
 **Activity**
 - Reviewer: NDSS, IEEE SP, Usenix Security, IEEE TDSC, IEEE TIFS, IEEE TIP,  Machine Learning.
