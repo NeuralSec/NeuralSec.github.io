@@ -17,8 +17,8 @@ My primary research interest resides in the joint distribution of adversarial ro
 
 **[Dec. 2023]** Our paper in reinforcement adversarial attack against video recognition is accepted to AAAI'24.\
 **[Oct. 2023]** One paper in face recognition anti-spoofing is accepted to NeurIPS'23.\
-**[Sep. 2023]** I will serve as a reviewer for TheWebConf'24.
-**[Jun. 2023]** I am invited to serve as a PC member for ACISP'24.
+**[Sep. 2023]** I will serve as a reviewer for TheWebConf'24.\
+**[Jun. 2023]** I am invited to serve as a PC member for ACISP'24.\
 **[Nov. 2022]** One paper in style-transfer-based adversarial attack against video classification sytems is accepted to IEEE SP'23.\
 **[Oct. 2022]** Our paper in neural backdoor detection is accepted to NDSS'23.
 
