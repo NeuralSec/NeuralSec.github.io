@@ -5,6 +5,6 @@ permalink: /awards/
 author_profile: true
 ---
 
-* CSIRO Data61 Scholarship, 2017.
+* CSIRO Data61 Scholarship, 2017-2020.
 
 * Third Prize, The 23rd Chinese Physics Olympiad.
