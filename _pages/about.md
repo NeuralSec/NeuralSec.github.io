@@ -14,8 +14,8 @@ My primary research interest resides in the joint distribution of adversarial ro
 
 
 # **News**
-**[Apr. 2024]** I will serve as a TPC member for NDSS'24.
-**[Mar. 2024]** Two papers are accepted to IEEE SP'24 workshop and TDSC, respectively.
+**[Apr. 2024]** I will serve as a TPC member for NDSS'24.\
+**[Mar. 2024]** Two papers are accepted to IEEE SP'24 workshop and TDSC, respectively.\
 **[Dec. 2023]** Our paper in reinforcement adversarial attack against video recognition is accepted to AAAI'24.\
 **[Oct. 2023]** One paper in face recognition anti-spoofing is accepted to NeurIPS'23.\
 **[Sep. 2023]** I will serve as a reviewer for TheWebConf'24.\
