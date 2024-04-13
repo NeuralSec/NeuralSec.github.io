@@ -27,4 +27,4 @@ My primary research interest resides in the joint distribution of adversarial ro
 # **Services**
 
 - Reviewer: NDSS, IEEE SP, Usenix Security, IEEE TDSC, IEEE TIFS, IEEE TIP,  Machine Learning.
-- Reviewer/Program commitee: ACISP'24, ACML'24, ACML'23, The ACM Web Conference (WWW)'24, NSS'22, CIC'19, ACSW'17.
+- Program commitee: NDSS'24, ACISP'24, ACML'24, ACML'23, The ACM Web Conference (WWW)'24, NSS'22, CIC'19, ACSW'17.
