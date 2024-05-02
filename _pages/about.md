@@ -14,7 +14,7 @@ My primary research interest resides in the joint distribution of adversarial ro
 
 
 # **News**
-**[May. 2024]** Our paper addressing curse of dimensionality in randomized smoothing via double sampling smoothing noises from exponential family distributions is accepted to ICML'24.\
+**[May. 2024]** Our paper improving double sampling smoothing for addressing curse of dimensionality in randomized smoothing is accepted to ICML'24.\
 **[Apr. 2024]** I will serve as a TPC member for NDSS'25.\
 **[Mar. 2024]** Two papers are accepted to IEEE SP'24 workshop and TDSC, respectively.\
 **[Dec. 2023]** Our paper in reinforcement adversarial attack against video recognition is accepted to AAAI'24.\
