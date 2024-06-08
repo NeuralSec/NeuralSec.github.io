@@ -14,6 +14,7 @@ My primary research interest resides in the joint distribution of adversarial ro
 
 
 # **News**
+<div style="width:150px;height:150px;line-height:3em;overflow:auto;padding:5px;">
 **[Jun. 2024]** I will serve as a PC member for CCS-LAMPS24.\
 **[May. 2024]** Our paper improving double sampling smoothing for addressing curse of dimensionality in randomized smoothing is accepted to ICML'24.\
 **[Apr. 2024]** I will serve as a TPC member for NDSS'25.\
@@ -24,7 +25,7 @@ My primary research interest resides in the joint distribution of adversarial ro
 **[Jun. 2023]** I am invited to serve as a PC member for ACISP'24.\
 **[Nov. 2022]** One paper in style-transfer-based adversarial attack against video classification sytems is accepted to IEEE SP'23.\
 **[Oct. 2022]** Our paper in neural backdoor detection is accepted to NDSS'23.
-
+</div>
 
 # **Services**
 
