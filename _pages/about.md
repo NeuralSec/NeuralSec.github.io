@@ -14,7 +14,7 @@ My primary research interest resides in the joint distribution of adversarial ro
 
 
 # **News**
-<div style="width:150px;height:150px;line-height:3em;overflow:auto;padding:5px;">
+<div style="width:500px;height:500px;line-height:3em;overflow:auto;padding:5px;">
 **[Jun. 2024]** I will serve as a PC member for CCS-LAMPS24.\
 **[May. 2024]** Our paper improving double sampling smoothing for addressing curse of dimensionality in randomized smoothing is accepted to ICML'24.\
 **[Apr. 2024]** I will serve as a TPC member for NDSS'25.\
