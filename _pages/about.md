@@ -16,7 +16,7 @@ My primary research interest resides in the joint distribution of adversarial ro
 # **News**
 
 **[Jul. 2024]** I am invited to serve as a PC member for [IEEE SatML'25](https://satml.org/).\
-**[Jun. 2024]** I am invited to serve as a PC member for [CCS'24-LAMPS](https://lamps-ccs.com).\
+**[Jun. 2024]** I am invited to serve as a PC member for [CCS'24-LAMPS](https://lamps-ccs.com) and the proceeding chair for [AJCAI'24](https://ajcai2024.org/).\
 **[May. 2024]** Our paper improving double sampling smoothing for addressing curse of dimensionality in randomized smoothing is accepted to ICML'24.\
 **[Apr. 2024]** I will serve as a TPC member for [NDSS'25](https://www.ndss-symposium.org/ndss2025/).\
 **[Mar. 2024]** Two papers are accepted to IEEE SP'24 workshop and TDSC, respectively.\
