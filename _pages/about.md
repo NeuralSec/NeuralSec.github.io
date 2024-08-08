@@ -26,8 +26,3 @@ My primary research interest resides in the joint distribution of adversarial ro
 **[Jun. 2023]** I am invited to serve as a PC member for ACISP'24.\
 **[Nov. 2022]** One paper in style-transfer-based adversarial attack against video classification sytems is accepted to IEEE SP'23.\
 **[Oct. 2022]** Our paper in neural backdoor detection is accepted to NDSS'23.
-
-# **Services**
-
-- Reviewer: NDSS, IEEE SP, Usenix Security, IEEE TDSC, IEEE TIFS, IEEE TIP,  Machine Learning.
-- Program commitee: NDSS'25, ACISP'24, ACML'24, ACML'23, The ACM Web Conference (WWW)'24, NSS'22, CIC'19, ACSW'17.
