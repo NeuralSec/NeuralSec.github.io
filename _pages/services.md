@@ -9,12 +9,12 @@ author_profile: true
 - 2025: [NDSS](https://www.ndss-symposium.org/ndss2025/), [IEEE SaTML](https://satml.org/).
 - 2024: [TheWebConf](https://www2024.thewebconf.org/), [CCS-LAMPS](https://lamps-ccs.com), [ACISP](https://www.acisp24.com/), [ACML](https://www.acml-conf.org/2024/).
 - 2023: [ACML](https://www.acml-conf.org/2023/)
-- ... \
+- ...
 
 
 
 ## **Organizing Committee**
--  2024: [AJCAI](https://ajcai2024.org/) (Proceedings Co-Chair)\
+-  2024: [AJCAI](https://ajcai2024.org/) (Proceedings Co-Chair)
 
 
 ## **Journal/Conference Reviwer**
@@ -24,4 +24,4 @@ author_profile: true
 - IEEE Transactions on Image Processing (TIP)
 - IEEE Symposium on Security and Privacy (SP)
 - Usenix Security Symposium (USENIX Security)
-- ...\
+- ...
