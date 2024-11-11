@@ -15,6 +15,7 @@ My primary research interest resides in the joint distribution of adversarial ro
 
 # **News**
 
+**[Nov. 2024]** Our paper on certified learnability and another on reinforcement unlearning have been accepted to NDSS'25.\
 **[Jul. 2024]** I am invited to serve as a PC member for [IEEE SaTML'25](https://satml.org/).\
 **[Jun. 2024]** I am invited to serve as a PC member for [CCS'24-LAMPS](https://lamps-ccs.com) and the proceedings chair for [AJCAI'24](https://ajcai2024.org/).\
 **[May. 2024]** Our paper improving double sampling smoothing for addressing curse of dimensionality in randomized smoothing is accepted to ICML'24.\
