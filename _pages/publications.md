@@ -9,7 +9,7 @@ author_profile: true
 
 ---
 
-### [NDSS'25] Provably Unlearnable Examples 
+### [NDSS'25] Provably Unlearnable Data Examples 
 *Derui Wang, Minhui Xue, Bo Li, Seyit Camtepe, Liming Zhu*
 
 <img src="../images/paper_figures/[NDSS'25]-PUE.png" alt="drawing" style="width:500px;"/>
