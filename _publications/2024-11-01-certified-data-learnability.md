@@ -1,7 +1,7 @@
 ---
 title: "[NDSS'25] Provably Unlearnable Data Examples"
 collection: publications
-permalink: /publication/2024-certified-data-learnability
+permalink: /publication/2024-11-01-certified-data-learnability
 ---
 
 ![Certified learnability of Unlearnable Datasets](../images/[NDSS'25]-PUE.png)
