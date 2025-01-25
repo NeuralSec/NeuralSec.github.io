@@ -15,7 +15,6 @@ My primary research interest resides in the joint distribution of adversarial ro
 ---
 
 # **News**
-
 <div style="overflow-y: scroll; height:300px; font-size: 18px" markdown=1>
 
 **[Jan. 2025]** One paper on certified robustness of deep reinforcement learning and two papers on perturbative protections for audio data have been accepted to USENIX Security'25 Summer Cycle.<br>
@@ -37,7 +36,7 @@ My primary research interest resides in the joint distribution of adversarial ro
 
 ---
 
-# **Some of My Research Focuses**
+# **My Research Focuses**
 Certified robustness/data availability at scale:
 - Certified perturbative data availability control (NDSS’25)
 - Certified robustness of DRL agents (USENIX Sec’25)
@@ -56,4 +55,17 @@ Red teaming for ML systems:
 - Object detection (IEEE TCYB)
 - Code (IEEE TDSC/TIFS)
 
-For prospective students and researchers: Please shoot me an email if you find them aligned with your research interests.
+For prospective students and researchers interested in collaboration: Please feel free to email me if these align with your research interests.
+
+---
+
+# **Mentorship and Collaboration**
+I have been fortunate to mentor and work with the following talented students:\
+Wanlun Ma (Swinburne University of Technology)\
+Yuxin Cao (Tsinghua University --> NUS)\
+Kai Ye (Tsinghua University --> HKU)\
+Youwei Shu (Tsinghua University --> HKU)\
+Chaoran Li (Swinburne University of Technology --> Li Auto)
+Siji Chen (Tsinghua University)\
+Zihan Wang (UQ)
+
