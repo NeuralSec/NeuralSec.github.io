@@ -15,7 +15,7 @@ author_profile: true
 ![Certified learnability of Unlearnable Datasets](../images/paper_figures/[NDSS'25]-PUE.png)
 
 We introduce the concept of certified learnability in this paper. Certified $(q,\eta)$-Learnability measures how learnable a dataset is by computing a probabilistic upper bound on the test performance of classifiers trained on this dataset, as long as those classifiers fall within a certified parameter set. We use certified $(q,\eta)$-Learnability as a measurement of the effectiveness and robustness of unlearnable examples, and propose Provably Unlearnable Examples (PUEs) which can lead to reduced $(q,\eta)$-Learnability when training classifiers on them.
-Our source code is available at [Github]{https://github.com/NeuralSec/certified-data-learnability}.
+Our source code is available at [Github](https://github.com/NeuralSec/certified-data-learnability).
 
 ---
 
@@ -30,7 +30,7 @@ By leveraging the insight that the global certified radius can be derived from l
 We also introduce *policy imitation* as a novel technique to stabilize CAMP training.
 Experimental results demonstrate that CAMP significantly improves the robustness-return trade-off across various tasks. 
 Based on the results, CAMP can achieve up to twice the certified expected return compared to that of baselines.
-Our code is available at [Github]{https://github.com/NeuralSec/camp-robust-rl} and [Zenodo]{https://zenodo.org/records/14729675}.
+Our code is available at [Github](https://github.com/NeuralSec/camp-robust-rl) and [Zenodo](https://zenodo.org/records/14729675).
 
 
 ---
