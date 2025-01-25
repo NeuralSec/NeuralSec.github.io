@@ -1,21 +1,11 @@
 ---
-layout: about
-title: about
 permalink: /
-subtitle: <a href='#'>About Me</a>
-
-profile:
-  align: right
-  image: head.jpg
-  image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>[firstname].[lastname]@data61.csiro.au</p>
-    <p>CSIRO's Data61</p>
-    <p>Clayton VIC 3168, Australia</p>
-
-# news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+title: "About Me"
+excerpt: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
 ---
 
 I received my Bachelor’s degree in Optoelectronics Informatics from Huazhong University of Science & Technology (HUST), China. I then switched to studying computer science/information security and obtained my doctoral degree in Australia jointly with CSIRO's Data61. I subsequently continued my research career in CSIRO’s Data61 as a CERC postdoctoral fellow in 2020, where I am now a research scientist working on machine learning security and privacy.
@@ -80,3 +70,4 @@ I have been fortunate to mentor and work with the following talented students (l
 - Zihan Wang (University of Queensland)
 - Kai Ye (Tsinghua University --> HKU)
 - Zhisheng Zhang (BUPT --> Tsinghua University)
+

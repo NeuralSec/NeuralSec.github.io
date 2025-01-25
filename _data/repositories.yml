@@ -1,9 +1,0 @@
-github_users:
-  - NeuralSec
-
-repo_description_lines_max: 2
-
-github_repos:
-  - NeuralSec/certified-data-learnability
-  - NeuralSec/camp-robust-rl
-  - NeuralSec/Daedalus-attack
