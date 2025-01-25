@@ -84,11 +84,11 @@ author:
   avatar           : "bio-photo.jpg"
   bio              : "Machine Learning Security & Privacy"
   location         : "Melbourne, Australia"
-  employer         :
+  employer         : "CSIRO's Data61"
   googlescholar    : "https://scholar.google.com.au/citations?user=uAbiaaUAAAAJ&hl=en"
   email            : "derek.wang@data61.csiro.au"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  uri              : "https://people.csiro.au/W/D/derek-wang"
   bitbucket        :
   codepen          :
   dribbble         :
@@ -101,7 +101,7 @@ author:
   instagram        :
   impactstory      :
   lastfm           :
-  linkedin         :
+  linkedin         : "www.linkedin.com/in/derui-wang"
   orcid            : "https://orcid.org/0000-0003-1388-7715"
   pinterest        :
   soundcloud       :
