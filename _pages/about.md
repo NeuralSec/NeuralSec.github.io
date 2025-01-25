@@ -16,7 +16,8 @@ My primary research interest resides in the joint distribution of adversarial ro
 
 # **News**
 
-<div style="overflow-y: scroll; height:400px;">
+<div style="overflow-y: scroll; height:300px;" markdown=1>
+
 **[Jan. 2025]** One paper on certified robustness of deep reinforcement learning and two papers on perturbative protections for audio data have been accepted to USENIX Security'25.\
 **[Jan. 2025]** One paper on AI model availability control via modulation has been accepted to WWW'25.\
 **[Nov. 2024]** Our paper on certified learnability and another on reinforcement unlearning have been accepted to NDSS'25.\
@@ -31,6 +32,7 @@ My primary research interest resides in the joint distribution of adversarial ro
 **[Jun. 2023]** I am invited to serve as a PC member for ACISP'24.\
 **[Nov. 2022]** One paper in style-transfer-based adversarial attack against video classification sytems is accepted to IEEE SP'23.\
 **[Oct. 2022]** Our paper in neural backdoor detection is accepted to NDSS'23.
+
 </div>
 
 
