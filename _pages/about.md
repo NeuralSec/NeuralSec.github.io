@@ -53,3 +53,4 @@ Red teaming for ML systems:
 - Object detection (IEEE TCYB)
 - Code (IEEE TDSC/TIFS)
 
+For prospective students and researchers: Please shoot me an email if you find them aligned with your research interests.
