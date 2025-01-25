@@ -201,6 +201,9 @@ exclude:
   - readme_preview/
   - vendor
   - projects/
+  - data/cv.yml
+  - data/coauthors.yml
+  - data/venues.yml
 keep_files:
   - CNAME
   - .nojekyll
