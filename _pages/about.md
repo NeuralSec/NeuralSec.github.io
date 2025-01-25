@@ -65,7 +65,9 @@ Wanlun Ma (Swinburne University of Technology)\
 Yuxin Cao (Tsinghua University --> NUS)\
 Kai Ye (Tsinghua University --> HKU)\
 Youwei Shu (Tsinghua University --> HKU)\
-Chaoran Li (Swinburne University of Technology --> Li Auto)
+Chaoran Li (Swinburne University of Technology --> Li Auto)\
 Siji Chen (Tsinghua University)\
-Zihan Wang (UQ)
+Zhisheng Zhang (BUPT --> Tsinghua University)\
+Weifei Jin (BUPT)\
+Zihan Wang (University of Queensland)
 
