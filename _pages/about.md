@@ -55,7 +55,7 @@ Red teaming for ML systems:
 - Object detection (IEEE TCYB)
 - Code (IEEE TDSC/TIFS)
 
-For prospective students and researchers interested in collaboration: Please feel free to email me if these align with your research interests.
+For prospective students and researchers interested in collaboration: Please feel free to shoot me an email if these align with your research interests.
 
 ---
 
