@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "About Me"
+title                    : "Derui (Derek) Wang"
 title_separator          : "-"
 name                     : &name "Derui (Derek) Wang"
 description              : &description "Machine Learning Security & Privacy"
