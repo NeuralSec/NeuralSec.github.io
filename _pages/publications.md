@@ -24,7 +24,7 @@ Our source code is available at [Github](https://github.com/NeuralSec/certified-
 
 <img src="../images/paper_figures/[USENIX_Sec'25]-CAMP.png" alt="drawing" style="width:800px;"/>
 
-we introduce a novel paradigm dubbed {C}ertified-r{A}dius-{M}aximizing {P}olicy (**CAMP**) training. 
+We introduce a novel paradigm dubbed {C}ertified-r{A}dius-{M}aximizing {P}olicy (**CAMP**) training for certifiably robust deep reinforcement learning agents. 
 CAMP is designed to enhance DRL policies, achieving better utility without compromising provable robustness. 
 By leveraging the insight that the global certified radius can be derived from local certified radii based on training-time statistics, CAMP formulates a surrogate loss related to the local certified radius and optimizes the policy guided by this surrogate loss. 
 We also introduce *policy imitation* as a novel technique to stabilize CAMP training.
