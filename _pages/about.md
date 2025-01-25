@@ -61,13 +61,13 @@ For prospective students and researchers interested in collaboration: Please fee
 
 # **Mentorship and Collaboration**
 I have been fortunate to mentor and work with the following talented students:\
-Wanlun Ma (Swinburne University of Technology)\
-Yuxin Cao (Tsinghua University --> NUS)\
-Kai Ye (Tsinghua University --> HKU)\
-Youwei Shu (Tsinghua University --> NUS)\
-Chaoran Li (Swinburne University of Technology --> Li Auto)\
-Siji Chen (Tsinghua University)\
-Zhisheng Zhang (BUPT --> Tsinghua University)\
-Weifei Jin (BUPT)\
-Zihan Wang (University of Queensland)
+- Wanlun Ma (Swinburne University of Technology)\
+- Yuxin Cao (Tsinghua University --> NUS)\
+- Kai Ye (Tsinghua University --> HKU)\
+- Youwei Shu (Tsinghua University --> NUS)\
+- Chaoran Li (Swinburne University of Technology --> Li Auto)\
+- Siji Chen (Tsinghua University)\
+- Zhisheng Zhang (BUPT --> Tsinghua University)\
+- Weifei Jin (BUPT)\
+- Zihan Wang (University of Queensland)
 
