@@ -35,4 +35,4 @@ Our code is available at [Github](https://github.com/NeuralSec/camp-robust-rl) a
 
 ---
 
-You can also find a full list of my publications on my [Google Scholar](https://scholar.google.com.au/citations?user=uAbiaaUAAAAJ&hl=en).
+The full list of my publications can be found on my [Google Scholar](https://scholar.google.com.au/citations?user=uAbiaaUAAAAJ&hl=en).
