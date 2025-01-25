@@ -204,6 +204,7 @@ exclude:
   - data/cv.yml
   - data/coauthors.yml
   - data/venues.yml
+  - pages/about_einstein.md
 keep_files:
   - CNAME
   - .nojekyll
