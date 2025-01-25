@@ -17,7 +17,7 @@ My primary research interest resides in the joint distribution of adversarial ro
 # **News**
 <div style="overflow-y: scroll; height:300px; font-size: 18px" markdown=1>
 
-**[Jan. 2025]** One paper on certified robustness of deep reinforcement learning and two papers on perturbative protections for audio data have been accepted to USENIX Security'25 Summer Cycle.<br>
+**[Jan. 2025]** One paper on certified robustness of deep reinforcement learning and two papers on perturbative protections for audio data have been accepted to USENIX Security'25 Cycle 1.<br>
 **[Jan. 2025]** One paper on AI model availability control via modulation has been accepted to WWW'25.<br>
 **[Nov. 2024]** Our paper on certified learnability and another on reinforcement unlearning have been accepted to NDSS'25.<br>
 **[Jul. 2024]** I am invited to serve as a PC member for [IEEE SaTML'25](https://satml.org/).<br>
