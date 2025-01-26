@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Derui (Derek) Wang"
   avatar           : "bio-photo.jpg"
-  bio              : "firstname.lastname@data61.csiro.au"
+  bio              : "preferredname.lastname@data61.csiro.au"
   location         :
   employer         : "CSIRO's Data61, Australia"
   googlescholar    : "https://scholar.google.com.au/citations?user=uAbiaaUAAAAJ&hl=en"
