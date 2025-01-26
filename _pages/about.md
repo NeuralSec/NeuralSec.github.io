@@ -42,18 +42,13 @@ Certified robustness/data availability at scale:
 - Certified robustness of DRL agents (USENIX Sec’25)
 - Curse of dimensionality in certified robustness (ICML’24)
 
-Perturbative data availability control:
-- Image (NDSS’25)
-- Audio (USENIX Sec’25)
+Data privacy and availability control:
+- Perturbative availability control (NDSS’25, USENIX Sec’25)
+- Other perturbative protections and unlearning (NDSS’25, USENIX Sec’25, ...)
 
-Empirical defenses:
-- Neural backdoor detection (NDSS’23, ACSAC’19)
-- Adversarial attack defenses (NeurIPS’23, IEEE TDSC/TIFS)
-
-Red teaming for ML systems:
-- Video classification (SP’23, AAAI’24)
-- Object detection (IEEE TCYB)
-- Code (IEEE TDSC/TIFS)
+Red teaming and defensive solutions for ML systems:
+- Red teaming and robustness evaluation (SP’23, AAAI’24, ...)
+- Defenses against backdoors and adversarial attacks (NDSS’23, NeurIPS’23, ACSAC’19, ...)
 
 My ultimate goal is to make AI truly trustworthy through provable guarantees, causality, and human alignment.
 For prospective students and researchers interested in collaboration: Please feel free to shoot me an email if these align with your research interests.
