@@ -65,7 +65,7 @@ The experimental results show that our approach achieves an F1 score of 91.1% in
 ### [SP'23] StyleFool: Fooling Video Classification Systems via Style Transfer ([Paper](https://arxiv.org/pdf/2203.16000) | [Code](https://github.com/yuxincao22/StyleFool))
 *Yuxin Cao, Xi Xiao, Ruoxi Sun, Derui Wang, Minhui Xue, Sheng Wen*
 
-<img src="../images/paper_figures/[SP'23]-StyleFool.png" alt="drawing" class="center" style="width:800px;"/>
+<img src="../images/paper_figures/[SP'23]-StyleFool.png" alt="drawing" class="center" style="width:800px; display: block; margin: auto;"/>
 
 Video classification systems are vulnerable to adversarial attacks, which can create severe security problems in video verification. 
 Current black-box attacks need a large number of queries to succeed, resulting in high computational overhead in the process of attack. 
