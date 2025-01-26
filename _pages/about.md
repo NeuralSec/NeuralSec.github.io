@@ -15,7 +15,7 @@ My primary research interest resides in the joint distribution of adversarial ro
 ---
 
 # **News**
-<div style="overflow-y: scroll; height:300px; font-size: 18px" markdown=1>
+<div style="overflow-y: scroll; height:200px; font-size: 12px" markdown=1>
 
 **[Jan. 2025]** One paper on certified robustness of deep reinforcement learning and two papers on perturbative protections for audio data have been accepted to USENIX Security'25 Cycle 1.<br>
 **[Jan. 2025]** One paper on AI model availability control via modulation has been accepted to WWW'25.<br>
