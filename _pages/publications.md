@@ -9,8 +9,10 @@ author_profile: true
 
 ---
 
-### [NDSS'25] Provably Unlearnable Data Examples ([Paper](https://arxiv.org/pdf/2405.03316) | [Code](https://github.com/NeuralSec/certified-data-learnability))
+### [NDSS'25] Provably Unlearnable Data Examples 
 *Derui Wang, Minhui Xue, Bo Li, Seyit Camtepe, Liming Zhu*
+
+[[Paper](https://arxiv.org/pdf/2405.03316) | [Code](https://github.com/NeuralSec/certified-data-learnability)]
 
 <img src="../images/paper_figures/[NDSS'25]-PUE.png" alt="drawing" style="width:800px;"/>
 
@@ -18,8 +20,10 @@ We introduce the concept of certified learnability in this paper. Certified $(q,
 
 ---
 
-### [USENIX Security'25] CAMP in the Odyssey: Provably Robust Reinforcement Learning with Certified Radius Maximization (Paper | [Code](https://github.com/NeuralSec/camp-robust-rl))
+### [USENIX Security'25] CAMP in the Odyssey: Provably Robust Reinforcement Learning with Certified Radius Maximization
 *Derui Wang, Kristen Moore, Diksha Goel, Minjune Kim, Gang Li, Yang Li, Robin Doss, Minhui Xue, Bo Li, Seyit Camtepe, Liming Zhu*
+
+[Paper | [Code](https://github.com/NeuralSec/camp-robust-rl)]
 
 <img src="../images/paper_figures/[USENIX_Sec'25]-CAMP.png" alt="drawing" style="width:800px;"/>
 
@@ -33,10 +37,12 @@ Our code is also available at [Zenodo](https://zenodo.org/records/14729675).
 
 ---
 
-### [ICML'24] Effects of Exponential Gaussian Distribution on (Double Sampling) Randomized Smoothing ([Paper](https://arxiv.org/pdf/2406.02309) | [Code](https://github.com/tdano1/eg-on-smoothing))
+### [ICML'24] Effects of Exponential Gaussian Distribution on (Double Sampling) Randomized Smoothing 
 *Youwei Shu, Xi Xiao, Derui Wang, Yuxin Cao, Siji Chen, Jason Xue, Linyi Li, Bo Li*
 
-<img src="../images/paper_figures/[ICML'24]-RS.png" alt="drawing" style="width:600px;"/>
+[[Paper](https://arxiv.org/pdf/2406.02309) | [Code](https://github.com/tdano1/eg-on-smoothing)]
+
+<img src="../images/paper_figures/[ICML'24]-RS.png" alt="drawing" style="width:300px;"/>
 
 We address in this paper the curse of dimensionality of Randomized Smoothing (RS).
 RS is currently a scalable certified defense method providing robustness certification against adversarial examples. 
@@ -48,8 +54,10 @@ Compared to the primitive DSRS, the increase in certified accuracy provided by E
 
 ---
 
-### [NDSS'23] The "Beatrix'' Resurrections: Robust Backdoor Detection via Gram Matrices ([Paper](https://arxiv.org/pdf/2209.11715) | [Code](https://github.com/wanlunsec/Beatrix))
+### [NDSS'23] The "Beatrix'' Resurrections: Robust Backdoor Detection via Gram Matrices 
 *Wanlun Ma, Derui Wang, Ruoxi Sun, Minhui Xue, Sheng Wen, Yang Xiang*
+
+[[Paper](https://arxiv.org/pdf/2209.11715) | [Code](https://github.com/wanlunsec/Beatrix)]
 
 <img src="../images/paper_figures/[NDSS'23]-Beatrix.png" alt="drawing" style="width:800px;"/>
 
@@ -62,8 +70,10 @@ The experimental results show that our approach achieves an F1 score of 91.1% in
 
 ---
 
-### [SP'23] StyleFool: Fooling Video Classification Systems via Style Transfer ([Paper](https://arxiv.org/pdf/2203.16000) | [Code](https://github.com/yuxincao22/StyleFool))
+### [SP'23] StyleFool: Fooling Video Classification Systems via Style Transfer
 *Yuxin Cao, Xi Xiao, Ruoxi Sun, Derui Wang, Minhui Xue, Sheng Wen*
+
+[[Paper](https://arxiv.org/pdf/2203.16000) | [Code](https://github.com/yuxincao22/StyleFool)]
 
 <img src="../images/paper_figures/[SP'23]-StyleFool.png" alt="drawing" style="width:800px;"/>
 
