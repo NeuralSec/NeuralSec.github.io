@@ -34,7 +34,7 @@ Our code is also available at [Zenodo](https://zenodo.org/records/14729675).
 ---
 
 ### [ICML'24] Effects of Exponential Gaussian Distribution on (Double Sampling) Randomized Smoothing ([Paper](https://arxiv.org/pdf/2406.02309) | [Code](https://github.com/tdano1/eg-on-smoothing))
-*Youwei Shu, Xi Xiao, Derui Wang, Yuxin Cao, Siji Chen, Jason Xue, Linyi Li, Bo Li*
+*Youwei Shu, Xi Xiao, Derui Wang, Yuxin Cao, Siji Chen, Minhui Xue, Linyi Li, Bo Li*
 
 <img src="../images/paper_figures/[ICML'24]-RS.png" alt="drawing" class="center" style="width:350px; display: block; margin: auto;"/>
 
