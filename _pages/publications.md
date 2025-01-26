@@ -9,23 +9,19 @@ author_profile: true
 
 ---
 
-### [NDSS'25] Provably Unlearnable Data Examples 
+### [NDSS'25] Provably Unlearnable Data Examples ([Paper](https://arxiv.org/pdf/2405.03316) | [Code](https://github.com/NeuralSec/certified-data-learnability))
 *Derui Wang, Minhui Xue, Bo Li, Seyit Camtepe, Liming Zhu*
 
-[[Paper](https://arxiv.org/pdf/2405.03316) | [Code](https://github.com/NeuralSec/certified-data-learnability)]
-
-<img src="../images/paper_figures/[NDSS'25]-PUE.png" alt="drawing" style="width:800px;"/>
+<img src="../images/paper_figures/[NDSS'25]-PUE.png" alt="drawing" class="center" style="width:800px;"/>
 
 We introduce the concept of certified learnability in this paper. Certified $(q,\eta)$-Learnability measures how learnable a dataset is by computing a probabilistic upper bound on the test performance of classifiers trained on this dataset, as long as those classifiers fall within a certified parameter set. We use certified $(q,\eta)$-Learnability as a measurement of the effectiveness and robustness of unlearnable examples, and propose Provably Unlearnable Examples (PUEs) which can lead to reduced $(q,\eta)$-Learnability when training classifiers on them.
 
 ---
 
-### [USENIX Security'25] CAMP in the Odyssey: Provably Robust Reinforcement Learning with Certified Radius Maximization
+### [USENIX Security'25] CAMP in the Odyssey: Provably Robust Reinforcement Learning with Certified Radius Maximization (Paper | [Code](https://github.com/NeuralSec/camp-robust-rl))
 *Derui Wang, Kristen Moore, Diksha Goel, Minjune Kim, Gang Li, Yang Li, Robin Doss, Minhui Xue, Bo Li, Seyit Camtepe, Liming Zhu*
 
-[Paper | [Code](https://github.com/NeuralSec/camp-robust-rl)]
-
-<img src="../images/paper_figures/[USENIX_Sec'25]-CAMP.png" alt="drawing" style="width:800px;"/>
+<img src="../images/paper_figures/[USENIX_Sec'25]-CAMP.png" alt="drawing" class="center" style="width:800px;"/>
 
 We introduce a novel paradigm dubbed {C}ertified-r{A}dius-{M}aximizing {P}olicy (**CAMP**) training for certifiably robust deep reinforcement learning agents. 
 CAMP is designed to enhance DRL policies, achieving better utility without compromising provable robustness. 
@@ -37,12 +33,10 @@ Our code is also available at [Zenodo](https://zenodo.org/records/14729675).
 
 ---
 
-### [ICML'24] Effects of Exponential Gaussian Distribution on (Double Sampling) Randomized Smoothing 
+### [ICML'24] Effects of Exponential Gaussian Distribution on (Double Sampling) Randomized Smoothing ([Paper](https://arxiv.org/pdf/2406.02309) | [Code](https://github.com/tdano1/eg-on-smoothing))
 *Youwei Shu, Xi Xiao, Derui Wang, Yuxin Cao, Siji Chen, Jason Xue, Linyi Li, Bo Li*
 
-[[Paper](https://arxiv.org/pdf/2406.02309) | [Code](https://github.com/tdano1/eg-on-smoothing)]
-
-<img src="../images/paper_figures/[ICML'24]-RS.png" alt="drawing" style="width:300px;"/>
+<img src="../images/paper_figures/[ICML'24]-RS.png" alt="drawing" class="center" style="width:350px;"/>
 
 We address in this paper the curse of dimensionality of Randomized Smoothing (RS).
 RS is currently a scalable certified defense method providing robustness certification against adversarial examples. 
@@ -54,12 +48,10 @@ Compared to the primitive DSRS, the increase in certified accuracy provided by E
 
 ---
 
-### [NDSS'23] The "Beatrix'' Resurrections: Robust Backdoor Detection via Gram Matrices 
+### [NDSS'23] The "Beatrix'' Resurrections: Robust Backdoor Detection via Gram Matrices ([Paper](https://arxiv.org/pdf/2209.11715) | [Code](https://github.com/wanlunsec/Beatrix))
 *Wanlun Ma, Derui Wang, Ruoxi Sun, Minhui Xue, Sheng Wen, Yang Xiang*
 
-[[Paper](https://arxiv.org/pdf/2209.11715) | [Code](https://github.com/wanlunsec/Beatrix)]
-
-<img src="../images/paper_figures/[NDSS'23]-Beatrix.png" alt="drawing" style="width:800px;"/>
+<img src="../images/paper_figures/[NDSS'23]-Beatrix.png" alt="drawing" class="center" style="width:800px;"/>
 
 We propose **Beatrix** (backdoor detection via Gram matrix) as an effective detector against dynamic backdoors. 
 Beatrix utilizes Gram matrix to capture not only the feature correlations but also the appropriately high-order information of the representations. 
@@ -70,12 +62,10 @@ The experimental results show that our approach achieves an F1 score of 91.1% in
 
 ---
 
-### [SP'23] StyleFool: Fooling Video Classification Systems via Style Transfer
+### [SP'23] StyleFool: Fooling Video Classification Systems via Style Transfer ([Paper](https://arxiv.org/pdf/2203.16000) | [Code](https://github.com/yuxincao22/StyleFool))
 *Yuxin Cao, Xi Xiao, Ruoxi Sun, Derui Wang, Minhui Xue, Sheng Wen*
 
-[[Paper](https://arxiv.org/pdf/2203.16000) | [Code](https://github.com/yuxincao22/StyleFool)]
-
-<img src="../images/paper_figures/[SP'23]-StyleFool.png" alt="drawing" style="width:800px;"/>
+<img src="../images/paper_figures/[SP'23]-StyleFool.png" alt="drawing" class="center" style="width:800px;"/>
 
 Video classification systems are vulnerable to adversarial attacks, which can create severe security problems in video verification. 
 Current black-box attacks need a large number of queries to succeed, resulting in high computational overhead in the process of attack. 
