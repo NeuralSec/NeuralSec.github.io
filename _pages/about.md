@@ -55,6 +55,7 @@ Red teaming for ML systems:
 - Object detection (IEEE TCYB)
 - Code (IEEE TDSC/TIFS)
 
+My ultimate goal is to make AI truly trustworthy through provable guarantees, causality, and human alignment.
 For prospective students and researchers interested in collaboration: Please feel free to shoot me an email if these align with your research interests.
 
 ---
