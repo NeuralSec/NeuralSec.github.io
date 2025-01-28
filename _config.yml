@@ -145,6 +145,7 @@ exclude:
   - package.json
   - tmp
   - vendor
+  - _pages/awards.md
 keep_files:
   - .git
   - .svn
