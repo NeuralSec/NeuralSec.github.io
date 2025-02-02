@@ -75,4 +75,4 @@ Leveraging style-transfer, our perturbations are crafted to be more  indistingui
 Moreover, StyleFool outperforms the state-of-the-art adversarial attacks in terms of both the number of queries and the robustness against existing defenses. 
 
 
-The full list of my publications can be found on my [Google Scholar](https://scholar.google.com.au/citations?user=uAbiaaUAAAAJ&hl=en).
+The full list of my publications can be found on my [Google Scholar](https://scholar.google.com.au/citations?hl=en&user=uAbiaaUAAAAJ&view_op=list_works&sortby=pubdate).
