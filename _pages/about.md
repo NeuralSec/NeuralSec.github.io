@@ -37,13 +37,13 @@ My primary research interest resides in the joint distribution of adversarial ro
 ---
 
 # **My Research Focuses**
-Certified robustness/data availability at scale:
-- Certified learnability for data availability control (NDSS’25)
+Certified robustness/data learnability at scale:
+- Certified learnability for data learnability control (NDSS’25)
 - Certified robustness of DRL agents (USENIX Sec’25)
 - Curse of dimensionality in certified robustness (ICML’24)
 
-Data privacy and availability control:
-- Perturbative availability control (NDSS’25, USENIX Sec’25)
+Data privacy and learnability control:
+- Perturbative availability poisons (NDSS’25, USENIX Sec’25)
 - Other perturbative protections and unlearning (NDSS’25, USENIX Sec’25, ...)
 
 Red teaming and defensive solutions for ML systems:
