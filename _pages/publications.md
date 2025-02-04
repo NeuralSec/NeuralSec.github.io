@@ -14,7 +14,7 @@ author_profile: true
 
 <img src="../images/paper_figures/[NDSS'25]-PUE.png" alt="drawing" class="center" style="width:800px; display: block; margin: auto;"/>
 
-We introduce the concept of certified learnability in this paper. Certified $(q,\eta)$-Learnability measures how learnable a dataset is by computing a probabilistic upper bound on the test performance of classifiers trained on this dataset, as long as those classifiers fall within a certified parameter set. We use certified $(q,\eta)$-Learnability as a measurement of the effectiveness and robustness of unlearnable examples, and propose Provably Unlearnable Examples (PUEs) which can lead to reduced $(q,\eta)$-Learnability when training classifiers on them.
+We introduce the theory of certified learnability in this paper. Certified $(q,\eta)$-Learnability measures how learnable a dataset is by computing a probabilistic upper bound on the test performance of classifiers trained on this dataset, as long as those classifiers fall within a certified parameter set. We use certified $(q,\eta)$-Learnability as a measurement of the effectiveness and robustness of unlearnable examples, and propose Provably Unlearnable Examples (PUEs) which can lead to reduced $(q,\eta)$-Learnability when training classifiers on them.
 
 ---
 
@@ -45,6 +45,22 @@ In this work, we comprehensively study the effect of two families of distributio
 We derive an analytic formula for ESG’s certified radius, which converges to the origin formula of RS as the dimension $d$ increases. 
 Additionally, we prove that EGG can provide tighter constant factors than DSRS in providing $\Omega(\sqrt{d})$ lower bounds of $\ell_2$ certified radius, and thus further addresses the curse of dimensionality in RS. 
 Compared to the primitive DSRS, the increase in certified accuracy provided by EGG is prominent, up to 6.4% on ImageNet.
+
+---
+
+### [USENIX Security'25] SafeSpeech: Robust and Universal Voice Protection Against Malicious Speech Synthesis (Paper | [Code](https://github.com/wxzyd123/SafeSpeech))
+*Zhisheng Zhang, Derui Wang, Qianyi Yang, Pengyang Huang, Junhan Pu, Yuxin Cao, Kai Ye, Jie Hao*
+
+<img src="../images/paper_figures/[USENIX_Sec'25]-SafeSpeech.png" alt="drawing" class="center" style="width:700px; display: block; margin: auto;"/>
+
+Speech synthesis technology has brought significant convenience, but the widespread use of realistic deepfake audio has also introduced considerable hazards. 
+In particular, models trained on large-scale speech corpora can now generate highly realistic audio. 
+By fine-tuning pretrained models, attackers require only a few minutes of speech samples to synthesize high-quality speeches with realistic timbre, rhythm, and phonemes. 
+For example, criminals have used deepfake speech to impersonate a German executive, tricking a British subsidiary head into transferring $243,000.
+
+In response, we introduce SafeSpeech, a method designed to protect users’ audio prior to publication by embedding imperceptible perturbations into the original speeches, thereby preventing the synthesis of high-quality deepfake audio.
+SafeSpeech achieves SOTA voice protection effectiveness and transferability and is highly robust against advanced adaptive adversaries. 
+Importantly, in real-world tests, SafeSpeech demonstrated real-time capability by providing continuous protection for streaming audio data after a 14-second warmup.
 
 ---
 
