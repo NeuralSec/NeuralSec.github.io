@@ -23,7 +23,7 @@ We introduce the theory of certified learnability in this paper. Certified $(q,\
 
 <img src="../images/paper_figures/[USENIX_Sec'25]-CAMP.png" alt="drawing" class="center" style="width:700px; display: block; margin: auto;"/>
 
-We introduce a novel paradigm dubbed {C}ertified-r{A}dius-{M}aximizing {P}olicy (**CAMP**) training for certifiably robust deep reinforcement learning agents. 
+We introduce a novel paradigm dubbed {C}ertified-r{A}dius-{M}aximizing {P}olicy (**CAMP**) training for certifiably robust deep reinforcement learning (DRL) agents. 
 CAMP is designed to enhance DRL policies, achieving better utility without compromising provable robustness. 
 By leveraging the insight that the global certified radius can be derived from local certified radii based on training-time statistics, CAMP formulates a surrogate loss related to the local certified radius and optimizes the policy guided by this surrogate loss. 
 We also introduce *policy imitation* as a novel technique to stabilize CAMP training.
