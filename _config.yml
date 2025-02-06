@@ -85,7 +85,7 @@ author:
   bio              : "preferredname.lastname@data61.csiro.au"
   location         :
   employer         : "CSIRO's Data61, Australia"
-  googlescholar    : "https://scholar.google.com.au/citations?user=uAbiaaUAAAAJ&hl=en"
+  googlescholar    : "https://scholar.google.com.au/citations?hl=en&user=uAbiaaUAAAAJ&view_op=list_works&sortby=pubdate"
   email            : "derek.wang@data61.csiro.au"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              : "https://people.csiro.au/W/D/derek-wang"
