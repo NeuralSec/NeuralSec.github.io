@@ -17,6 +17,7 @@ My primary research interest resides in the joint distribution of adversarial ro
 # **News**
 <div style="overflow-y: scroll; height:200px; font-size: 16px" markdown=1>
 
+**[Feb. 2025]** Our paper "Provably Unlearnable Data Examples" got the Distinguished Paper Award at NDSS 2025!<br>
 **[Jan. 2025]** One paper on certified robustness of deep reinforcement learning and two papers on perturbative protections for audio data have been accepted to USENIX Security'25 Cycle 1.<br>
 **[Jan. 2025]** One paper on AI model availability control via modulation has been accepted to WWW'25.<br>
 **[Nov. 2024]** Our paper on certified learnability and another on reinforcement unlearning have been accepted to NDSS'25.<br>
