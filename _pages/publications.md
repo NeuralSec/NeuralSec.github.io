@@ -9,7 +9,7 @@ author_profile: true
 
 ---
 
-### [NDSS'25] Provably Unlearnable Data Examples ([Paper](https://arxiv.org/pdf/2405.03316) | [Code](https://github.com/NeuralSec/certified-data-learnability))
+### [NDSS'25 Distinguished Paper Award] Provably Unlearnable Data Examples ([Paper](https://arxiv.org/pdf/2405.03316) | [Code](https://github.com/NeuralSec/certified-data-learnability))
 *Derui Wang, Minhui Xue, Bo Li, Seyit Camtepe, Liming Zhu*
 
 <img src="../images/paper_figures/[NDSS'25]-PUE.png" alt="drawing" class="center" style="width:800px; display: block; margin: auto;"/>
