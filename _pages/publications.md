@@ -10,7 +10,7 @@ author_profile: true
 ---
 
 ### [NDSS'25 Distinguished Paper] Provably Unlearnable Data Examples ([Paper](https://www.ndss-symposium.org/wp-content/uploads/2025-886-paper.pdf) | [Code](https://github.com/NeuralSec/certified-data-learnability))
-*Derui Wang, Minhui Xue, Bo Li, Seyit Camtepe, Liming Zhu*
+***Derui Wang**, Minhui Xue, Bo Li, Seyit Camtepe, Liming Zhu*
 
 <img src="../images/paper_figures/[NDSS'25]-PUE.png" alt="drawing" class="center" style="width:800px; display: block; margin: auto;"/>
 
@@ -19,7 +19,7 @@ We introduce the theory of certified learnability in this paper. Certified $(q,\
 ---
 
 ### [USENIX Security'25] CAMP in the Odyssey: Provably Robust Reinforcement Learning with Certified Radius Maximization ([Paper](https://arxiv.org/pdf/2501.17667) | [Code](https://github.com/NeuralSec/camp-robust-rl))
-*Derui Wang, Kristen Moore, Diksha Goel, Minjune Kim, Gang Li, Yang Li, Robin Doss, Minhui Xue, Bo Li, Seyit Camtepe, Liming Zhu*
+***Derui Wang**, Kristen Moore, Diksha Goel, Minjune Kim, Gang Li, Yang Li, Robin Doss, Minhui Xue, Bo Li, Seyit Camtepe, Liming Zhu*
 
 <img src="../images/paper_figures/[USENIX_Sec'25]-CAMP.png" alt="drawing" class="center" style="width:700px; display: block; margin: auto;"/>
 
@@ -34,7 +34,7 @@ Our code is also available at [Zenodo](https://zenodo.org/records/14729675).
 ---
 
 ### [ICML'24] Effects of Exponential Gaussian Distribution on (Double Sampling) Randomized Smoothing ([Paper](https://arxiv.org/pdf/2406.02309) | [Code](https://github.com/tdano1/eg-on-smoothing))
-*Youwei Shu, Xi Xiao, Derui Wang, Yuxin Cao, Siji Chen, Minhui Xue, Linyi Li, Bo Li*
+*Youwei Shu, Xi Xiao, **Derui Wang**, Yuxin Cao, Siji Chen, Minhui Xue, Linyi Li, Bo Li*
 
 <img src="../images/paper_figures/[ICML'24]-RS.png" alt="drawing" class="center" style="width:350px; display: block; margin: auto;"/>
 
@@ -49,7 +49,7 @@ Compared to the primitive DSRS, the increase in certified accuracy provided by E
 ---
 
 ### [USENIX Security'25] SafeSpeech: Robust and Universal Voice Protection Against Malicious Speech Synthesis (Paper | [Code](https://github.com/wxzyd123/SafeSpeech))
-*Zhisheng Zhang, Derui Wang, Qianyi Yang, Pengyang Huang, Junhan Pu, Yuxin Cao, Kai Ye, Jie Hao*
+*Zhisheng Zhang, **Derui Wang**, Qianyi Yang, Pengyang Huang, Junhan Pu, Yuxin Cao, Kai Ye, Jie Hao*
 
 <img src="../images/paper_figures/[USENIX_Sec'25]-SafeSpeech.png" alt="drawing" class="center" style="width:700px; display: block; margin: auto;"/>
 
@@ -65,7 +65,7 @@ Importantly, in real-world tests, SafeSpeech demonstrated real-time capability b
 ---
 
 ### [NDSS'23] The "Beatrix'' Resurrections: Robust Backdoor Detection via Gram Matrices ([Paper](https://arxiv.org/pdf/2209.11715) | [Code](https://github.com/wanlunsec/Beatrix))
-*Wanlun Ma, Derui Wang, Ruoxi Sun, Minhui Xue, Sheng Wen, Yang Xiang*
+*Wanlun Ma, **Derui Wang**, Ruoxi Sun, Minhui Xue, Sheng Wen, Yang Xiang*
 
 <img src="../images/paper_figures/[NDSS'23]-Beatrix.png" alt="drawing" class="center" style="width:800px; display: block; margin: auto;"/>
 
@@ -79,7 +79,7 @@ The experimental results show that our approach achieves an F1 score of 91.1% in
 ---
 
 ### [SP'23] StyleFool: Fooling Video Classification Systems via Style Transfer ([Paper](https://arxiv.org/pdf/2203.16000) | [Code](https://github.com/yuxincao22/StyleFool))
-*Yuxin Cao, Xi Xiao, Ruoxi Sun, Derui Wang, Minhui Xue, Sheng Wen*
+*Yuxin Cao, Xi Xiao, Ruoxi Sun, **Derui Wang**, Minhui Xue, Sheng Wen*
 
 <img src="../images/paper_figures/[SP'23]-StyleFool.png" alt="drawing" class="center" style="width:700px; display: block; margin: auto;"/>
 
