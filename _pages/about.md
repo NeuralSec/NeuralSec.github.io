@@ -39,19 +39,19 @@ My primary research interest resides in the joint distribution of adversarial ro
 
 # **My Research Focuses**
 Certified robustness/data learnability at scale:
-- Certified learnability for data learnability control (NDSS’25)
-- Certified robustness of DRL agents (USENIX Sec’25)
-- Curse of dimensionality in certified robustness (ICML’24)
+- Certified learnability for data learnability control (*NDSS’25*)
+- Certified robustness of DRL agents (*USENIX Sec’25*)
+- Curse of dimensionality in certified robustness (*ICML’24*)
 
 Data privacy and learnability control:
-- Perturbative availability poisons (NDSS’25, USENIX Sec’25)
-- Other perturbative protections and unlearning (NDSS’25, USENIX Sec’25, ...)
+- Perturbative availability poisons (*NDSS’25, USENIX Sec’25*)
+- Other perturbative protections and unlearning (*NDSS’25, USENIX Sec’25, ...*)
 
 Red teaming and defensive solutions for ML systems:
-- Red teaming and robustness evaluation (SP’23, AAAI’24, ...)
-- Defenses against backdoors and adversarial attacks (NDSS’23, NeurIPS’23, ACSAC’19, ...)
+- Red teaming and robustness evaluation (*SP’23, AAAI’24, ...*)
+- Defenses against backdoors and adversarial attacks (*NDSS’23, NeurIPS’23, ACSAC’19, ...*)
 
-My ultimate goal is to make AI truly trustworthy through provable guarantees, causality, and human alignment.
+My ultimate goal is to make AI truly trustworthy through *provable guarantees*, *causality*, and *human alignment*.
 For prospective students and researchers interested in collaboration: Please feel free to shoot me an email if these align with your research interests.
 
 ---
