@@ -9,7 +9,7 @@ author_profile: true
 
 ---
 
-### [NDSS'25][Distinguished Paper Award] Provably Unlearnable Data Examples ([Paper](https://www.ndss-symposium.org/wp-content/uploads/2025-886-paper.pdf) | [Code](https://github.com/NeuralSec/certified-data-learnability))
+### [NDSS'25][<span style="color:blue"> Distinguished Paper Award </span>] Provably Unlearnable Data Examples ([Paper](https://www.ndss-symposium.org/wp-content/uploads/2025-886-paper.pdf) | [Code](https://github.com/NeuralSec/certified-data-learnability))
 ***Derui Wang**, Minhui Xue, Bo Li, Seyit Camtepe, Liming Zhu*
 
 <img src="../images/paper_figures/[NDSS'25]-PUE.png" alt="drawing" class="center" style="width:800px; display: block; margin: auto;"/>
@@ -93,14 +93,14 @@ Moreover, StyleFool outperforms the state-of-the-art adversarial attacks in term
 
 ## **List of Publications**
 
-The list of my publications can also be found on my [Google Scholar](https://scholar.google.com.au/citations?hl=en&user=uAbiaaUAAAAJ&view_op=list_works&sortby=pubdate). "*" marks corresponding authors.
+The list of my publications can also be found on my [Google Scholar](https://scholar.google.com.au/citations?hl=en&user=uAbiaaUAAAAJ&view_op=list_works&sortby=pubdate). \* marks a corresponding author, if specified.
 
 [1] Luyu Zhu, Kai Ye, Jiayu Yao, Chenxi Li, Luwen Zhao, Yuxin Cao, **Derui Wang**, and Jie Hao. Maid: Model attribution via inverse diffusion. In International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2025.<br>
-[2] Zhisheng Zhang, __Derui Wang__*, Qianyi Yang, Pengyang Huang, Junhan Pu, Yuxin Cao, Kai Ye, Jie Hao*, and Yixian Yang. Safespeech: Robust and universal voice protection against malicious speech synthesis. In USENIX Security Symposium, 2025.<br>
+[2] Zhisheng Zhang, **Derui Wang**\*, Qianyi Yang, Pengyang Huang, Junhan Pu, Yuxin Cao, Kai Ye, Jie Hao\*, and Yixian Yang. Safespeech: Robust and universal voice protection against malicious speech synthesis. In USENIX Security Symposium, 2025.<br>
 [3] Dayong Ye, Tianqing Zhu, Congcong Zhu, **Derui Wang**, Zewei Shi, Sheng Shen, Wanlei Zhou, and Minhui Xue. Reinforcement unlearning. In Network and Distributed System Security (NDSS) Symposium, 2025.<br>
 [4] Zihan Wang, Zhongkui Ma, Xinguo Feng, Zhiyang Mei, Ethan Ma, **Derui Wang**, Minhui Xue, and Guangdong Bai. Ai model modulation with logits redistribution. In The ACM Web Conference (WWW), 2025.<br>
 [5] Yamei Wang, Yuexin Zhang, Ayong Ye, Jian Shen, **Derui Wang**, and Yang Xiang. Anonymous and efficient $(t,n)$-threshold ownership transfer for cloud emrs auditing. IEEE Transactions on Information Forensics and Security, 2025.<br>
-[6] **Derui Wang**, Minhui Xue, Bo Li, Seyit Camtepe, and Liming Zhu. Provably unlearnable data examples. In Network and Distributed System Security (NDSS) Symposium, 2025.<br>
+[6] **Derui Wang**, Minhui Xue, Bo Li, Seyit Camtepe, and Liming Zhu. Provably unlearnable data examples. In Network and Distributed System Security (NDSS) Symposium, 2025 (<span style="color:blue"> Distinguished Paper Award </span>).<br>
 [7] **Derui Wang**, Kristen Moore, Diksha Goel, Minjune Kim, Gang Li, Yang Li, Robin Doss, Minhui Xue, Bo Li, Seyit Camtepe, and Liming Zhu. Camp in the odyssey: Provably robust reinforcement learning with certified radius maximization. In USENIX Security Symposium, 2025.<br>
 [8] Minjune Kim, Jeff Wang, Kristen Moore, Diksha Goel, **Derui Wang**, Ahmad Mohsin, Ahmed Ibrahim, Robin Doss, Seyit Camtepe, and Helge Janicke. Cyberally: Leveraging llms and knowledge graphs to empower cyber defenders. In Companion Proceedings of the ACM Web Conference (WWW Companion), 2025.<br>
 [9] Weifei Jin, Yuxin Cao, Junjie Su, **Derui Wang**, Yedi Zhang, Minhui Xue, Jie Hao, Jin Song Dong, and Yixian Yang. Whispering under the eaves: Protecting user privacy against commercial and llm-powered automatic speech recognition systems. In USENIX Security Symposium, 2025.<br>
@@ -118,7 +118,7 @@ The list of my publications can also be found on my [Google Scholar](https://sch
 [21] Wanlun Ma, **Derui Wang**, Ruoxi Sun, Minhui Xue, Sheng Wen, and Yang Xiang. The "beatrix” resurrections: Robust backdoor detection via gram matrices. In The Network and Distributed System Security (NDSS) Symposium, 2023.<br>
 [22] Yuxin Cao, Ziyu Zhao, Xi Xiao, **Derui Wang**, Minhui Xue, and Jin Lu. Logostylefool: Vitiating video recognition systems via logo style transfer. In The 38th Annual AAAI Conference on Artificial Intelligence (AAAI), 2023.<br>
 [23] Yuxin Cao, Xi Xiao, Ruoxi Sun, **Derui Wang**, Minhui Xue, and Sheng Wen. Stylefool: Fooling video classification systems via style transfer. In IEEE Symposium on Security and Privacy (SP), 2023.<br>
-[24] Yuxin Cao, Yian Li, Yumeng Zhu, __Derui Wang__*, and Minhui Xue*. Flow-attention-based spatio-temporal aggregation network for 3d mask detection. In Advances in Neural Information Processing Systems (NeurIPS), 2023.<br>
+[24] Yuxin Cao, Yian Li, Yumeng Zhu, **Derui Wang**\*, and Minhui Xue\*. Flow-attention-based spatio-temporal aggregation network for 3d mask detection. In Advances in Neural Information Processing Systems (NeurIPS), 2023.<br>
 [25] **Derui Wang**, Sheng Wen, Alireza Jolfaei, Mohammad Sayad Haghighi, Surya Nepal, and Yang Xiang. On the neural backdoor of federated generative models in edge computing. ACM Transactions on Internet Technology, 22(2):1–21, 2021.<br>
 [26] **Derui Wang**, Chaoran Li, Sheng Wen, Qing-Long Han, Surya Nepal, Xiangyu Zhang, and Yang Xiang. Daedalus: Breaking non-maximum suppression in object detection via adversarial examples. IEEE Transactions on Cybernetics, 52(8):7427–7440, 2021.<br>
 [27] Chaoran Li, Xiao Chen, **Derui Wang**, Sheng Wen, Muhammad Ejaz Ahmed, Seyit Camtepe, and Yang Xiang. Backdoor attack on machine learning based android malware detectors. IEEE Transactions on dependable and secure computing, 19(5):3357–3370, 2021.<br>
