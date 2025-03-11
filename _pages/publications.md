@@ -9,7 +9,7 @@ author_profile: true
 
 ---
 
-### [NDSS'25][<span style="color:blue"> Distinguished Paper Award </span>] Provably Unlearnable Data Examples ([Paper](https://www.ndss-symposium.org/wp-content/uploads/2025-886-paper.pdf) | [Code](https://github.com/NeuralSec/certified-data-learnability))
+### [NDSS'25][<span style="color:red"> Distinguished Paper Award </span>] Provably Unlearnable Data Examples ([Paper](https://www.ndss-symposium.org/wp-content/uploads/2025-886-paper.pdf) | [Code](https://github.com/NeuralSec/certified-data-learnability))
 ***Derui Wang**, Minhui Xue, Bo Li, Seyit Camtepe, Liming Zhu*
 
 <img src="../images/paper_figures/[NDSS'25]-PUE.png" alt="drawing" class="center" style="width:800px; display: block; margin: auto;"/>
@@ -100,7 +100,7 @@ The list of my publications can also be found on my [Google Scholar](https://sch
 [3] Dayong Ye, Tianqing Zhu, Congcong Zhu, **Derui Wang**, Zewei Shi, Sheng Shen, Wanlei Zhou, and Minhui Xue. Reinforcement unlearning. In Network and Distributed System Security (NDSS) Symposium, 2025.<br>
 [4] Zihan Wang, Zhongkui Ma, Xinguo Feng, Zhiyang Mei, Ethan Ma, **Derui Wang**, Minhui Xue, and Guangdong Bai. Ai model modulation with logits redistribution. In The ACM Web Conference (WWW), 2025.<br>
 [5] Yamei Wang, Yuexin Zhang, Ayong Ye, Jian Shen, **Derui Wang**, and Yang Xiang. Anonymous and efficient $(t,n)$-threshold ownership transfer for cloud emrs auditing. IEEE Transactions on Information Forensics and Security, 2025.<br>
-[6] **Derui Wang**, Minhui Xue, Bo Li, Seyit Camtepe, and Liming Zhu. Provably unlearnable data examples. In Network and Distributed System Security (NDSS) Symposium, 2025 (<span style="color:blue"> Distinguished Paper Award </span>).<br>
+[6] **Derui Wang**, Minhui Xue, Bo Li, Seyit Camtepe, and Liming Zhu. Provably unlearnable data examples. In Network and Distributed System Security (NDSS) Symposium, 2025 (<span style="color:red"> Distinguished Paper Award </span>).<br>
 [7] **Derui Wang**, Kristen Moore, Diksha Goel, Minjune Kim, Gang Li, Yang Li, Robin Doss, Minhui Xue, Bo Li, Seyit Camtepe, and Liming Zhu. Camp in the odyssey: Provably robust reinforcement learning with certified radius maximization. In USENIX Security Symposium, 2025.<br>
 [8] Minjune Kim, Jeff Wang, Kristen Moore, Diksha Goel, **Derui Wang**, Ahmad Mohsin, Ahmed Ibrahim, Robin Doss, Seyit Camtepe, and Helge Janicke. Cyberally: Leveraging llms and knowledge graphs to empower cyber defenders. In Companion Proceedings of the ACM Web Conference (WWW Companion), 2025.<br>
 [9] Weifei Jin, Yuxin Cao, Junjie Su, **Derui Wang**, Yedi Zhang, Minhui Xue, Jie Hao, Jin Song Dong, and Yixian Yang. Whispering under the eaves: Protecting user privacy against commercial and llm-powered automatic speech recognition systems. In USENIX Security Symposium, 2025.<br>
