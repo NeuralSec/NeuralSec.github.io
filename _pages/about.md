@@ -60,11 +60,9 @@ For prospective students and researchers interested in collaboration: Please fee
 I have been fortunate to mentor and work with the following talented students (listed in alphabetical order by last name):
 - [Yuxin Cao](https://yuxincao22.github.io) (Tsinghua University --> NUS)
 - Siji Chen (Tsinghua University)
-- Weifei Jin (BUPT)
 - [Chaoran Li](https://scholar.google.com/citations?user=K4ZJJtkAAAAJ&hl=en) (Swinburne University of Technology --> Li Auto)
 - [Wanlun Ma](https://scholar.google.com/citations?user=W5z9XB8AAAAJ&hl=en) (Swinburne University of Technology)
 - Youwei Shu (Tsinghua University --> NUS)
 - [Zihan Wang](https://www.zihan.com.au) (University of Queensland)
 - [Kai Ye](https://scholar.google.com.au/citations?hl=en&user=dWvWMv8AAAAJ) (Tsinghua University --> HKU)
-- Zhisheng Zhang (Tsinghua University)
 
