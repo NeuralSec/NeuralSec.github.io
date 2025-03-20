@@ -96,7 +96,7 @@ Moreover, StyleFool outperforms the state-of-the-art adversarial attacks in term
 The list of my publications can also be found on my [Google Scholar](https://scholar.google.com.au/citations?hl=en&user=uAbiaaUAAAAJ&view_op=list_works&sortby=pubdate). \* marks a corresponding author, if specified.
 
 [1] Luyu Zhu, Kai Ye, Jiayu Yao, Chenxi Li, Luwen Zhao, Yuxin Cao, **Derui Wang**, and Jie Hao. Maid: Model attribution via inverse diffusion. In International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2025.<br>
-[2] Zhisheng Zhang, **Derui Wang**\*, Qianyi Yang, Pengyang Huang, Junhan Pu, Yuxin Cao, Kai Ye, Jie Hao\*, and Yixian Yang. Safespeech: Robust and universal voice protection against malicious speech synthesis. In USENIX Security Symposium, 2025.<br>
+[2] Zhisheng Zhang, **Derui Wang**, Qianyi Yang, Pengyang Huang, Junhan Pu, Yuxin Cao, Kai Ye, Jie Hao, and Yixian Yang. Safespeech: Robust and universal voice protection against malicious speech synthesis. In USENIX Security Symposium, 2025.<br>
 [3] Dayong Ye, Tianqing Zhu, Congcong Zhu, **Derui Wang**, Zewei Shi, Sheng Shen, Wanlei Zhou, and Minhui Xue. Reinforcement unlearning. In Network and Distributed System Security (NDSS) Symposium, 2025.<br>
 [4] Zihan Wang, Zhongkui Ma, Xinguo Feng, Zhiyang Mei, Ethan Ma, **Derui Wang**, Minhui Xue, and Guangdong Bai. Ai model modulation with logits redistribution. In The ACM Web Conference (WWW), 2025.<br>
 [5] Yamei Wang, Yuexin Zhang, Ayong Ye, Jian Shen, **Derui Wang**, and Yang Xiang. Anonymous and efficient $(t,n)$-threshold ownership transfer for cloud emrs auditing. IEEE Transactions on Information Forensics and Security, 2025.<br>
