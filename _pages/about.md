@@ -17,6 +17,7 @@ My primary research interest resides in the joint distribution of adversarial ro
 # **News**
 <div style="overflow-y: scroll; height:200px; font-size: 16px" markdown=1>
 
+**[Jun. 2025]** We are excited to host the [LAMPS](https://lamps-ccs.github.io/home/) workshop, colocated with ACM CCS 2025. We invite you to submit your high-quality research!<br>
 **[Feb. 2025]** Our paper "Provably Unlearnable Data Examples" got the Distinguished Paper Award at NDSS 2025!<br>
 **[Jan. 2025]** One paper on certified robustness of deep reinforcement learning and two papers on perturbative protections for audio data have been accepted to USENIX Security'25 Cycle 1.<br>
 **[Jan. 2025]** One paper on AI model availability control via modulation has been accepted to WWW'25.<br>
