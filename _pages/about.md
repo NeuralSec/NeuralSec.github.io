@@ -57,10 +57,11 @@ For prospective students and researchers interested in collaboration: Please fee
 
 ---
 
-# **Mentorship and Collaboration**
-I have been fortunate to mentor and work with the following talented students (listed in alphabetical order by last name):
+# **Supervision and Mentorship**
+I have been fortunate to supervise/mentor and work with the following talented students (listed in alphabetical order by last name):
 - [Yuxin Cao](https://yuxincao22.github.io) (Tsinghua University --> NUS)
 - Siji Chen (Tsinghua University)
+- Brayden Killeen (RMIT)
 - [Chaoran Li](https://scholar.google.com/citations?user=K4ZJJtkAAAAJ&hl=en) (Swinburne University of Technology --> Li Auto)
 - [Wanlun Ma](https://scholar.google.com/citations?user=W5z9XB8AAAAJ&hl=en) (Swinburne University of Technology)
 - Youwei Shu (Tsinghua University --> NUS)
