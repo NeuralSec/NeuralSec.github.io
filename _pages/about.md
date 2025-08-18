@@ -10,7 +10,7 @@ redirect_from:
 
 I received my Bachelor’s degree in Optoelectronics Informatics from Huazhong University of Science & Technology (HUST), China. I then switched to studying computer science/information security and obtained my doctoral degree in Australia jointly with CSIRO's Data61. I subsequently continued my research career in CSIRO’s Data61 as a CERC postdoctoral fellow in 2020, where I am now a research scientist working on machine learning security and privacy.
 
-My primary research interest resides in the joint distribution of adversarial robustness, neural backdoors, robustness/privacy verification, and real-world security & privacy issues of machine learning systems. I publish in top journals and conferences, such as IEEE TDSC, TIFS, ICDCS, SP, NDSS, NeurIPS, ICML, and ACSAC. I also serve as a program committee member and a (sub)reviewer for international conferences/journals like WWW, ACML, NDSS, IEEE SP, Usenix Security, IEEE TDSC, IEEE TIFS, and IEEE TIP. I am a recipient of awards such as the Distinguished Paper Award at the NDSS Symposium, and my research is featured on major media outlets including ABC News, 7 News, The Age, and The Sydney Morning Herald. I have been playing drums in my spare time since 2013. Table tennis is my favourite weekly sport.
+My primary research interest resides in the joint distribution of adversarial robustness, neural backdoors, robustness/privacy certification, and real-world security & privacy issues of machine learning systems. I publish in top conferences and journals, including SP, NDSS, USENIX Security, NeurIPS, ICML, WWW, IEEE TDSC, and IEEE TIFS. I also serve as a program committee member and a (sub)reviewer for international conferences/journals like WWW, AAAI, NDSS, IEEE SP, USENIX Security, IEEE TDSC, IEEE TIFS, and IEEE TIP. I am a recipient of awards such as the Distinguished Paper Award at the NDSS Symposium. My research has been featured in major national media outlets, including ABC News, 7 News, The Age, and The Sydney Morning Herald. I have been playing drums in my spare time since 2013. Table tennis is my favourite weekly sport.
 
 ---
 
@@ -68,3 +68,11 @@ I have been fortunate to supervise/mentor and work with the following talented s
 - [Zihan Wang](https://www.zihan.com.au) (University of Queensland)
 - [Kai Ye](https://scholar.google.com.au/citations?hl=en&user=dWvWMv8AAAAJ) (Tsinghua University --> HKU)
 
+---
+
+# **Media Coverage**
+- [CSIRO](https://www.csiro.au/en/news/All/News/2025/August/New-research-could-block-AI-learning-from-your-online-content?utm_source=D61SM25&utm_medium=D61SM25&utm_campaign=AICP25)
+- [ABC News](https://www.abc.net.au/news/2025-08-12/csiro-develops-algorithm-to-prevent-deepfakes/105641122)
+- [7 National News](https://www.youtube.com/watch?v=n1U6yBOc2QM)
+- [The Age](https://www.theage.com.au/technology/csiro-breakthrough-shields-against-sexualised-ai-deepfakes-20250808-p5mlfm.html)
+- [The Sydney Morning Herald](https://www.smh.com.au/technology/csiro-breakthrough-shields-against-sexualised-ai-deepfakes-20250808-p5mlfm.html)
