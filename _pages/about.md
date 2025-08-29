@@ -8,12 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I received my Bachelor's degree in Optoelectronics Informatics from Huazhong University of Science and Technology (HUST), China, before transitioning to computer science and information security for my doctoral studies in Australia, conducted jointly with CSIRO's Data61. Since 2020, 
-I have continued my research career at Data61, first as a CERC Postdoctoral Fellow and now as a Research Scientist, focusing on machine learning security and privacy.
+I received my Bachelor's degree in Optoelectronics Informatics from Huazhong University of Science and Technology (HUST), China, before transitioning to computer science and information security for my doctoral studies in Australia, conducted jointly with CSIRO's Data61. 
+Since 2020, I have continued my research career at Data61, first as a CERC Postdoctoral Fellow and now as a Research Scientist, focusing on machine learning security and privacy.
 
-My research interests lie at the intersection of adversarial robustness, neural backdoors, robustness/privacy certification, and the real-world security and privacy of machine learning systems. 
-I focus particularly on certified robustness, certified data learnability at scale, data privacy and learnability control, as well as red-teaming and defensive strategies for ML systems.
-I publish regularly in leading venues such as IEEE S&P, NDSS, USENIX Security, NeurIPS, ICML, AAAI, WWW, IEEE TDSC, and IEEE TIFS, and I serve on the program committees and review boards of major international conferences and journals including NDSS, IEEE S&P, USENIX Security, WWW, AAAI, NeurIPS, IEEE TDSC, IEEE TIFS, IEEE TNNLS, and IEEE TIP. 
+My research interests span adversarial robustness, neural backdoors, robustness and privacy certification, and the real-world security and privacy of machine learning systems. 
+In particular, I focus on the set: {certified robustness and certified data learnability at scale, data privacy and learnability control, red-teaming and defensive strategies for ML systems}. 
+I publish regularly in leading venues such as IEEE S&P, NDSS, USENIX Security, NeurIPS, ICML, AAAI, WWW, IEEE TDSC, and IEEE TIFS. 
+I also serves on the program committees and review boards of major international conferences and journals, including NDSS, IEEE S&P, USENIX Security, WWW, AAAI, NeurIPS, IEEE TDSC, IEEE TIFS, IEEE TNNLS, and IEEE TIP. 
 My work has been recognized with awards such as the NDSS Distinguished Paper Award, and has been featured in major national media outlets including ABC News, 7 News, The Age, and The Sydney Morning Herald.
 Outside of research, I have been playing drums since 2013 and enjoy table tennis as my favorite weekly sport.
 
