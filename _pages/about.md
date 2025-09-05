@@ -14,7 +14,7 @@ Since 2020, I have continued my research career at Data61, first as a CERC Postd
 My research interests span adversarial robustness, neural backdoors, robustness and privacy certification, and the real-world security and privacy of machine learning systems. 
 In particular, I focus on the set: {certified robustness and certified data learnability at scale, data privacy and learnability control, red-teaming and defensive strategies for ML systems}. 
 I publish regularly in leading venues such as IEEE S&P, NDSS, USENIX Security, NeurIPS, ICML, AAAI, WWW, IEEE TDSC, and IEEE TIFS. 
-I also serve on the program committees and review boards of major international conferences and journals, including NDSS, IEEE S&P, USENIX Security, WWW, AAAI, NeurIPS, IEEE TDSC, IEEE TIFS, IEEE TNNLS, and IEEE TIP. 
+I also serve on the program committees and review boards of major international conferences and journals, including NDSS, IEEE SaTML, IEEE S&P, USENIX Security, WWW, AAAI, NeurIPS, IEEE TDSC, IEEE TIFS, IEEE TNNLS, and IEEE TIP. 
 My work has been recognized with awards such as the NDSS Distinguished Paper Award, and has been featured in major national media outlets including ABC News, 7 News, The Age, and The Sydney Morning Herald.
 Outside of research, I have been playing drums since 2013 and enjoy table tennis as my favorite weekly sport.
 
