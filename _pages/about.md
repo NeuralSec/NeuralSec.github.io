@@ -23,6 +23,7 @@ Outside of research, I have been playing drums since 2013 and enjoy table tennis
 # **News**
 <div style="overflow-y: scroll; height:200px; font-size: 16px" markdown=1>
 
+**[Nov. 2025]** Two papers on safeguarding audio-language models have been accepted to NeurIPS'25. One paper on red teaming video-language models has been accepted to AAAI'26.
 **[Jun. 2025]** We are excited to host the [LAMPS](https://lamps-ccs.github.io/home/) workshop, colocated with ACM CCS 2025. We invite you to submit your high-quality research!<br>
 **[Feb. 2025]** Our paper "Provably Unlearnable Data Examples" got the Distinguished Paper Award at NDSS 2025!<br>
 **[Jan. 2025]** One paper on certified robustness of deep reinforcement learning and two papers on perturbative protections for audio data have been accepted to USENIX Security'25 Cycle 1.<br>
