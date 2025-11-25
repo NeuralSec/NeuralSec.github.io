@@ -83,3 +83,5 @@ I have been fortunate to supervise/mentor and work with the following talented s
 - [ABC News](https://www.abc.net.au/news/science/2025-10-30/blocking-ais-from-training-on-your-content/105937872) and [ABC News Radio](https://www.abc.net.au/news/2025-08-12/csiro-develops-algorithm-to-prevent-deepfakes/105641122)
 - [The Age](https://www.theage.com.au/technology/csiro-breakthrough-shields-against-sexualised-ai-deepfakes-20250808-p5mlfm.html)
 - [The Sydney Morning Herald](https://www.smh.com.au/technology/csiro-breakthrough-shields-against-sexualised-ai-deepfakes-20250808-p5mlfm.html)
+
+But as always, do not read too much into the media — read the papers :)
