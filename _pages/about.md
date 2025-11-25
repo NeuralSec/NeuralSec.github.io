@@ -79,7 +79,7 @@ I have been fortunate to supervise/mentor and work with the following talented s
 
 # **Media Coverage**
 - [CSIRO](https://www.csiro.au/en/news/All/News/2025/August/New-research-could-block-AI-learning-from-your-online-content?utm_source=D61SM25&utm_medium=D61SM25&utm_campaign=AICP25)
-- [ABC News](https://www.abc.net.au/news/2025-08-12/csiro-develops-algorithm-to-prevent-deepfakes/105641122)
 - [7 National News](https://www.youtube.com/watch?v=n1U6yBOc2QM)
+- [ABC News](https://www.abc.net.au/news/science/2025-10-30/blocking-ais-from-training-on-your-content/105937872) and [ABC News Radio](https://www.abc.net.au/news/2025-08-12/csiro-develops-algorithm-to-prevent-deepfakes/105641122)
 - [The Age](https://www.theage.com.au/technology/csiro-breakthrough-shields-against-sexualised-ai-deepfakes-20250808-p5mlfm.html)
 - [The Sydney Morning Herald](https://www.smh.com.au/technology/csiro-breakthrough-shields-against-sexualised-ai-deepfakes-20250808-p5mlfm.html)
