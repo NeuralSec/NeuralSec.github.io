@@ -9,13 +9,13 @@ redirect_from:
 ---
 
 I received my Bachelor's degree in Optoelectronics Informatics from Huazhong University of Science and Technology (HUST), China, before transitioning to computer science for my doctoral studies in Australia, conducted jointly with CSIRO's Data61. 
-Since 2020, I have continued my research career at Data61, first as a CERC Postdoctoral Fellow and now as a Research Scientist, focusing on machine learning security and privacy.
+Since 2020, I have continued my research career at Data61, first as a CERC Postdoctoral Fellow and now as a [Senior Research Scientist](https://en.wikipedia.org/wiki/Academic_ranks_(Australia_and_New_Zealand)), focusing on machine learning security and privacy.
 
 My research interests span adversarial robustness, neural backdoors, robustness and privacy certification, and the real-world security and privacy of machine learning systems. 
 In particular, I focus on the set: {certified robustness and certified data learnability at scale, data privacy and learnability control, red-teaming and defensive strategies for ML systems}. 
 I publish regularly in leading venues such as IEEE S&P, NDSS, USENIX Security, NeurIPS, ICML, AAAI, WWW, IEEE TDSC, and IEEE TIFS. 
 I also serve on the program committees and review boards of major international conferences and journals, including NDSS, IEEE SaTML, IEEE S&P, USENIX Security, WWW, AAAI, NeurIPS, IEEE TDSC, IEEE TIFS, IEEE TNNLS, and IEEE TIP. 
-My work has been recognized with awards such as the NDSS Distinguished Paper Award, and has been featured in major national media outlets including ABC News, 7 News, The Age, and The Sydney Morning Herald.
+My work has been recognized with awards such as the [NDSS Distinguished Paper Award](https://www.ndss-symposium.org/ndss2025/), and has been featured in major national media outlets including ABC News, 7 News, The Age, and The Sydney Morning Herald.
 Outside of research, I have been playing drums since 2013 and enjoy table tennis as my favorite weekly sport.
 
 ---
@@ -47,17 +47,17 @@ Outside of research, I have been playing drums since 2013 and enjoy table tennis
 
 # **My Research Focuses**
 Certified robustness/data learnability at scale:
-- Certified learnability for data learnability control (*NDSS’25*)
-- Certified robustness of DRL agents (*USENIX Sec’25*)
-- Curse of dimensionality in certified robustness (*ICML’24*)
+- Certified learnability for data learnability control (*NDSS ’25*)
+- Certified robustness of DRL agents (*USENIX Sec ’25*)
+- Curse of dimensionality in certified robustness (*ICML ’24*)
 
 Data privacy and learnability control:
-- Perturbative availability poisons (*NDSS’25, USENIX Sec’25*)
-- Other perturbative protections and unlearning (*NDSS’25, USENIX Sec’25, ...*)
+- Perturbative availability poisons (*NDSS ’25, USENIX Sec ’25*)
+- Other perturbative protections and unlearning (*NDSS ’25, USENIX Sec ’25, NeurIPS '25...*)
 
 Red teaming and defensive solutions for ML systems:
-- Red teaming and robustness evaluation (*SP’23, AAAI’24, ...*)
-- Defenses against backdoors and adversarial attacks (*NDSS’23, NeurIPS’23, ACSAC’19, ...*)
+- Red teaming and robustness evaluation (*SP ’23, AAAI ’24, ...*)
+- Defenses against backdoors and adversarial attacks (*NDSS ’23, NeurIPS ’23, ACSAC ’19, ...*)
 
 My ultimate goal is to make AI truly trustworthy through *provable guarantees*, *causality*, and *human alignment*.
 For prospective students and researchers interested in collaboration: Please feel free to shoot me an email if these align with your research interests.
@@ -84,4 +84,4 @@ I have been fortunate to supervise/mentor and work with the following talented s
 - [The Age](https://www.theage.com.au/technology/csiro-breakthrough-shields-against-sexualised-ai-deepfakes-20250808-p5mlfm.html)
 - [The Sydney Morning Herald](https://www.smh.com.au/technology/csiro-breakthrough-shields-against-sexualised-ai-deepfakes-20250808-p5mlfm.html)
 
-But as always, do not read too much into the media — read the papers :)
+As always, do not read too much into the media — read the papers :)
