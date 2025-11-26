@@ -12,11 +12,11 @@ I received my Bachelor's degree in Optoelectronics Informatics from Huazhong Uni
 Since 2020, I have continued my research career at Data61, first as a CERC Postdoctoral Fellow and now as a [Senior Research Scientist](https://en.wikipedia.org/wiki/Academic_ranks_(Australia_and_New_Zealand)), focusing on machine learning security and privacy.
 
 My research interests span adversarial robustness, neural backdoors, robustness and privacy certification, and the real-world security and privacy of machine learning systems. 
-In particular, I focus on the set: {certified robustness and certified data learnability at scale, data privacy and learnability control, red-teaming and defensive strategies for ML systems}. 
+In particular, I focus on the set: {*certified robustness and certified data learnability at scale*, *data privacy and learnability control*, *red-teaming and defensive strategies for ML systems*}. 
 I publish regularly in leading venues such as IEEE S&P, NDSS, USENIX Security, NeurIPS, ICML, AAAI, WWW, IEEE TDSC, and IEEE TIFS. 
 I also serve on the program committees and review boards of major international conferences and journals, including NDSS, IEEE SaTML, IEEE S&P, USENIX Security, WWW, AAAI, NeurIPS, IEEE TDSC, IEEE TIFS, IEEE TNNLS, and IEEE TIP. 
 My work has been recognized with awards such as the [NDSS Distinguished Paper Award](https://www.ndss-symposium.org/ndss2025/), and has been featured in major national media outlets including ABC News, 7 News, The Age, and The Sydney Morning Herald.
-Outside of research, I have been playing drums since 2013 and enjoy table tennis as my favorite weekly sport.
+Outside of research, I love video games and simple mathematical games like the [pirate game](https://steveomohundro.com/wp-content/uploads/2009/03/stewart99_a_puzzle_for_pirates.pdf). I have been playing drums since 2013 and enjoy table tennis as my favorite weekly sport.
 
 ---
 
