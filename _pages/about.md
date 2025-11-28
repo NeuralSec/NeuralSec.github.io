@@ -16,7 +16,7 @@ In particular, I focus on the set: {*certified robustness and certified data lea
 I publish regularly in leading venues such as IEEE S&P, NDSS, USENIX Security, NeurIPS, ICML, AAAI, WWW, IEEE TDSC, and IEEE TIFS. 
 I also serve on the program committees and review boards of major international conferences and journals, including NDSS, IEEE SaTML, IEEE S&P, USENIX Security, WWW, AAAI, NeurIPS, IEEE TDSC, IEEE TIFS, IEEE TNNLS, and IEEE TIP. 
 My work has been recognized with awards such as the [NDSS Distinguished Paper Award](https://www.ndss-symposium.org/ndss2025/), and has been featured in major national media outlets including ABC News, 7 News, The Age, and The Sydney Morning Herald.
-Outside of research, I love video games and simple mathematical games like the [pirate game](https://steveomohundro.com/wp-content/uploads/2009/03/stewart99_a_puzzle_for_pirates.pdf). I have been playing drums since 2013 and enjoy table tennis as my favorite weekly sport.
+Outside of research, I love simple mathematical games like the [pirate game](https://steveomohundro.com/wp-content/uploads/2009/03/stewart99_a_puzzle_for_pirates.pdf). I have been playing drums since 2013 and enjoy table tennis as my favorite weekly sport.
 
 ---
 
