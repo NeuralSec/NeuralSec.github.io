@@ -16,7 +16,7 @@ hero_alt: "CAMP robust reinforcement learning overview"
 hero_caption: "CAMP optimizes policies with certified-radius-aware objectives to improve the robustness-return trade-off."
 links:
   - label: "Paper"
-    url: "https://arxiv.org/pdf/2501.17667"
+    url: "https://www.usenix.org/conference/usenixsecurity25/presentation/wang-derui"
   - label: "Code"
     url: "https://github.com/NeuralSec/camp-robust-rl"
   - label: "Zenodo"
@@ -59,15 +59,6 @@ links:
       <h3>Stable robust policy learning</h3>
       <p>Policy imitation provides a stabilizing signal, helping CAMP train agents that preserve utility while improving provable robustness.</p>
     </div>
-  </div>
-</section>
-
-<section class="project-section project-section--narrow">
-  <h2>Resources</h2>
-  <div class="project-resource-list">
-    <a href="https://www.usenix.org/conference/usenixsecurity25/presentation/wang-derui">Paper</a>
-    <a href="https://github.com/NeuralSec/camp-robust-rl">Code</a>
-    <a href="https://zenodo.org/records/14729675">Zenodo Artifact</a>
   </div>
 </section>
 

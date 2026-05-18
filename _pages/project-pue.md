@@ -61,14 +61,6 @@ links:
 </section>
 
 <section class="project-section project-section--narrow">
-  <h2>Resources</h2>
-  <div class="project-resource-list">
-    <a href="https://www.ndss-symposium.org/wp-content/uploads/2025-886-paper.pdf">Paper</a>
-    <a href="https://github.com/NeuralSec/certified-data-learnability">Code</a>
-  </div>
-</section>
-
-<section class="project-section project-section--narrow">
   <h2>BibTeX</h2>
   <pre class="project-bibtex"><code>@inproceedings{wang2025provably,
   title={Provably Unlearnable Data Examples},
