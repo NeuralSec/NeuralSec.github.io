@@ -9,7 +9,7 @@ author_profile: true
 
 ---
 
-### [NDSS'25][<span style="color:red"> Distinguished Paper Award </span>] Provably Unlearnable Data Examples ([Paper](https://www.ndss-symposium.org/wp-content/uploads/2025-886-paper.pdf) | [Code](https://github.com/NeuralSec/certified-data-learnability))
+### [NDSS'25][<span style="color:red"> Distinguished Paper Award </span>] Provably Unlearnable Data Examples ([Project](/projects/provably-unlearnable-data-examples/) | [Paper](https://www.ndss-symposium.org/wp-content/uploads/2025-886-paper.pdf) | [Code](https://github.com/NeuralSec/certified-data-learnability))
 ***Derui Wang**, Minhui Xue, Bo Li, Seyit Camtepe, Liming Zhu*
 
 <img src="../images/paper_figures/[NDSS'25]-PUE.png" alt="drawing" class="center" style="width:800px; display: block; margin: auto;"/>
@@ -18,7 +18,7 @@ We introduce the theory of certified learnability in this paper. Certified $(q,\
 
 ---
 
-### [USENIX Security'25] CAMP in the Odyssey: Provably Robust Reinforcement Learning with Certified Radius Maximization ([Paper](https://arxiv.org/pdf/2501.17667) | [Code](https://github.com/NeuralSec/camp-robust-rl))
+### [USENIX Security'25] CAMP in the Odyssey: Provably Robust Reinforcement Learning with Certified Radius Maximization ([Project](/projects/camp-robust-rl/) | [Paper](https://arxiv.org/pdf/2501.17667) | [Code](https://github.com/NeuralSec/camp-robust-rl))
 ***Derui Wang**, Kristen Moore, Diksha Goel, Minjune Kim, Gang Li, Yang Li, Robin Doss, Minhui Xue, Bo Li, Seyit Camtepe, Liming Zhu*
 
 <img src="../images/paper_figures/[USENIX_Sec'25]-CAMP.png" alt="drawing" class="center" style="width:700px; display: block; margin: auto;"/>
