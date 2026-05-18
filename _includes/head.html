@@ -13,6 +13,19 @@
 
 <script>
   document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+  (function() {
+    var storageKey = "site-theme";
+    var theme = "light";
+
+    try {
+      theme = localStorage.getItem(storageKey) || (window.matchMedia && window.matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light");
+    } catch (error) {
+      theme = "light";
+    }
+
+    document.documentElement.setAttribute("data-theme", theme);
+    document.documentElement.style.colorScheme = theme;
+  })();
 </script>
 
 <!-- For all browsers -->

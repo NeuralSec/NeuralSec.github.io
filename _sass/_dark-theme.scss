@@ -1,0 +1,413 @@
+/* ==========================================================================
+   DARK THEME
+   ========================================================================== */
+
+:root {
+  color-scheme: light;
+}
+
+html[data-theme="dark"] {
+  color-scheme: dark;
+}
+
+.masthead__menu {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+}
+
+.masthead__menu .greedy-nav {
+  flex: 1 1 auto;
+  min-width: 0;
+}
+
+.theme-toggle {
+  display: inline-flex;
+  flex: 0 0 auto;
+  align-items: center;
+  gap: 0.4rem;
+  min-height: 2.25rem;
+  padding: 0.45rem 0.7rem;
+  color: #4f5d6b;
+  font-family: $sans-serif;
+  font-size: $type-size-6;
+  font-weight: 700;
+  line-height: 1;
+  background: #ffffff;
+  border: 1px solid $border-color;
+  border-radius: 999px;
+  cursor: pointer;
+  transition: $global-transition;
+
+  &:hover {
+    color: #1f2933;
+    border-color: $light-gray;
+    box-shadow: 0 2px 10px rgba(31, 41, 51, 0.12);
+  }
+}
+
+.theme-toggle__icon {
+  font-size: 0.9rem;
+}
+
+html[data-theme="dark"] {
+  background: #111827;
+
+  body {
+    color: #d8dee9;
+    background: #111827;
+  }
+
+  a {
+    color: #7cc7e8;
+  }
+
+  u,
+  ins {
+    border-bottom-color: #8a97a8;
+  }
+
+  abbr[title],
+  abbr[data-original-title] {
+    border-bottom-color: #8a97a8;
+  }
+
+  hr {
+    border-top-color: #263445;
+  }
+
+  blockquote {
+    color: #c7d0dd;
+    border-left-color: #5aa7c9;
+  }
+
+  p > code,
+  a > code,
+  li > code,
+  figcaption > code,
+  td > code,
+  pre,
+  div.highlighter-rouge,
+  figure.highlight {
+    color: #d8dee9;
+    background: #172033;
+    border-color: #2b3a4b;
+    box-shadow: none;
+  }
+
+  div.highlighter-rouge:before,
+  figure.highlight:before {
+    color: #aeb8c5;
+    background: #202b3a;
+  }
+
+  .highlight,
+  .highlight pre,
+  .highlight code {
+    color: #d8dee9;
+    background: transparent;
+  }
+
+  .highlight .n,
+  .highlight .p,
+  .highlight .g,
+  .highlight .l,
+  .highlight .go,
+  .highlight .gp,
+  .highlight .na,
+  .highlight .nl,
+  .highlight .nn,
+  .highlight .nx,
+  .highlight .py,
+  .highlight .w {
+    color: #d8dee9;
+  }
+
+  .masthead {
+    background: #111827;
+    border-bottom-color: #263445;
+  }
+
+  .greedy-nav {
+    background: #111827;
+
+    a {
+      color: #d8dee9;
+
+      &:hover {
+        color: #ffffff;
+      }
+    }
+
+    button {
+      color: #ffffff;
+      background-color: #2f6f9f;
+    }
+
+    .visible-links a:before {
+      background: #5aa7c9;
+    }
+
+    .hidden-links {
+      background: #172033;
+      border-color: #2b3a4b;
+      box-shadow: 0 10px 30px rgba(0, 0, 0, 0.35);
+
+      &:before {
+        border-color: #2b3a4b transparent;
+      }
+
+      &:after {
+        border-color: #172033 transparent;
+      }
+
+      li {
+        border-bottom-color: #2b3a4b;
+      }
+
+      a:hover {
+        color: #ffffff;
+        background: #202b3a;
+      }
+    }
+  }
+
+  .theme-toggle {
+    color: #d8dee9;
+    background: #172033;
+    border-color: #2b3a4b;
+
+    &:hover {
+      color: #ffffff;
+      border-color: #4c6078;
+      box-shadow: 0 2px 12px rgba(0, 0, 0, 0.35);
+    }
+  }
+
+  #main,
+  .page,
+  .archive {
+    color: #d8dee9;
+  }
+
+  .page__title,
+  .archive__item-title,
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    color: #eef2f7;
+  }
+
+  .page__content h2,
+  .archive__subtitle,
+  .feature__wrapper,
+  .page__content + .pagination,
+  .page__meta + .pagination,
+  .page__share,
+  .page__comments-title {
+    border-color: #263445;
+  }
+
+  .page__meta,
+  .archive__subtitle,
+  figcaption {
+    color: #aeb8c5;
+  }
+
+  figcaption a {
+    color: #c9d3df;
+    border-bottom-color: #526276;
+  }
+
+  table {
+    border-color: #2b3a4b;
+  }
+
+  thead {
+    background-color: #172033;
+    border-bottom-color: #2b3a4b;
+  }
+
+  th,
+  td {
+    border-color: #2b3a4b;
+  }
+
+  .author__avatar img {
+    border-color: #2b3a4b;
+  }
+
+  .author__urls {
+    background: #172033;
+    border-color: #2b3a4b;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.35);
+
+    &:before {
+      border-color: #2b3a4b transparent;
+    }
+
+    &:after {
+      border-color: #172033 transparent;
+    }
+  }
+
+  .toc {
+    color: #c2ccd8;
+    background: #172033;
+    border-color: #2b3a4b;
+
+    .nav__title {
+      background: #2f6f9f;
+    }
+  }
+
+  .toc__menu a {
+    color: #c2ccd8;
+    border-bottom-color: #2b3a4b;
+
+    &:hover {
+      color: #ffffff;
+      background: #202b3a;
+    }
+  }
+
+  .pagination li a,
+  .pagination--pager {
+    color: #c2ccd8;
+    background: #172033;
+    border-color: #2b3a4b;
+
+    &:hover {
+      color: #ffffff;
+    }
+
+    &.current {
+      color: #ffffff;
+      background: #2f6f9f;
+    }
+
+    &.disabled {
+      color: #6e7c8d;
+    }
+  }
+
+  .btn {
+    background-color: #2f6f9f;
+
+    &:hover {
+      background-color: #245677;
+    }
+  }
+
+  .page__footer {
+    color: #aeb8c5;
+    background-color: #0f1724;
+    border-top-color: #263445;
+
+    .fas,
+    .fab,
+    .far,
+    .fal {
+      color: #aeb8c5;
+    }
+  }
+
+  .project-page {
+    color: #d8dee9;
+    background: #111827;
+
+    a {
+      color: #7cc7e8;
+    }
+  }
+
+  .project-hero {
+    background: #0f1724;
+    border-bottom-color: #263445;
+  }
+
+  .project-kicker {
+    color: #cbe6f5;
+    background: #173247;
+    border-color: #284c67;
+  }
+
+  .project-title,
+  .project-section h2,
+  .project-section h3,
+  .project-highlight strong {
+    color: #eef2f7;
+  }
+
+  .project-subtitle,
+  .project-authors,
+  .project-affiliations,
+  .project-section p,
+  .project-section li,
+  .project-lead,
+  .project-highlight span {
+    color: #c2ccd8;
+  }
+
+  .project-award {
+    color: #ffd3c7;
+    background: #3a1d18;
+    border-color: #6d3428;
+  }
+
+  .project-action {
+    color: #ffffff !important;
+    background: #2f6f9f;
+    box-shadow: 0 8px 18px rgba(0, 0, 0, 0.25);
+
+    &:hover {
+      background: #3f8dbd;
+    }
+  }
+
+  .project-teaser img,
+  .project-highlight,
+  .project-panel,
+  .project-resource-list a,
+  .project-bibtex {
+    background: #172033;
+    border-color: #2b3a4b;
+  }
+
+  .project-teaser img {
+    box-shadow: 0 18px 38px rgba(0, 0, 0, 0.3);
+  }
+
+  .project-teaser figcaption {
+    color: #aeb8c5;
+  }
+
+  .project-section {
+    border-bottom-color: #263445;
+  }
+
+  .project-resource-list a {
+    color: #d8dee9;
+  }
+
+  .project-bibtex,
+  .project-bibtex code {
+    color: #d8dee9;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .theme-toggle__text {
+    display: none;
+  }
+
+  .theme-toggle {
+    min-width: 2.25rem;
+    justify-content: center;
+    padding-left: 0.55rem;
+    padding-right: 0.55rem;
+  }
+}
