@@ -1,37 +1,82 @@
 ---
-layout: single
-title: "CAMP in the Odyssey"
+layout: project
+title: "CAMP in the Odyssey: Provably Robust Reinforcement Learning with Certified Radius Maximization"
 permalink: /projects/camp-robust-rl/
-author_profile: true
 excerpt: "Project page for CAMP in the Odyssey: Provably Robust Reinforcement Learning with Certified Radius Maximization."
+venue: "USENIX Security 2025"
+subtitle: "Certified-radius-maximizing policy training for robust deep reinforcement learning agents."
+authors: "**Derui Wang**, Kristen Moore, Diksha Goel, Minjune Kim, Gang Li, Yang Li, Robin Doss, Minhui Xue, Bo Li, Seyit Camtepe, Liming Zhu"
+affiliations:
+  - "CSIRO's Data61"
+  - "Cyber Security Cooperative Research Centre"
+  - "Deakin University"
+  - "University of Chicago"
+hero_image: "/images/paper_figures/[USENIX_Sec'25]-CAMP.png"
+hero_alt: "CAMP robust reinforcement learning overview"
+hero_caption: "CAMP optimizes policies with certified-radius-aware objectives to improve the robustness-return trade-off."
+links:
+  - label: "Paper"
+    url: "https://arxiv.org/pdf/2501.17667"
+  - label: "Code"
+    url: "https://github.com/NeuralSec/camp-robust-rl"
+  - label: "Zenodo"
+    url: "https://zenodo.org/records/14729675"
 ---
 
-<p>
-  <a class="btn" href="https://arxiv.org/pdf/2501.17667">Paper</a>
-  <a class="btn" href="https://github.com/NeuralSec/camp-robust-rl">Code</a>
-  <a class="btn" href="https://zenodo.org/records/14729675">Zenodo</a>
-</p>
+<section class="project-section">
+  <h2>Highlights</h2>
+  <p class="project-lead">CAMP improves certified robustness for deep reinforcement learning by directly optimizing a training objective connected to certified radius.</p>
+  <div class="project-highlight-grid">
+    <div class="project-highlight">
+      <strong>Certified-radius maximization</strong>
+      <span>Trains policies with a surrogate loss derived from local certified radii.</span>
+    </div>
+    <div class="project-highlight">
+      <strong>Policy imitation</strong>
+      <span>Stabilizes certified-radius-aware optimization during reinforcement learning training.</span>
+    </div>
+    <div class="project-highlight">
+      <strong>Better trade-off</strong>
+      <span>Improves certified expected return, reaching up to twice the certified return of baselines.</span>
+    </div>
+  </div>
+</section>
 
-**USENIX Security 2025**  
-**Derui Wang**, Kristen Moore, Diksha Goel, Minjune Kim, Gang Li, Yang Li, Robin Doss, Minhui Xue, Bo Li, Seyit Camtepe, Liming Zhu
+<section class="project-section project-section--narrow">
+  <h2>Abstract</h2>
+  <p>We introduce Certified-rAdius-Maximizing Policy (<strong>CAMP</strong>) training for certifiably robust deep reinforcement learning agents. CAMP improves the robustness-return trade-off by optimizing policies with a surrogate loss derived from certified-radius maximization.</p>
+  <p>The key insight is that the global certified radius can be derived from local certified radii based on training-time statistics. CAMP uses this relationship during training and introduces policy imitation to stabilize optimization.</p>
+</section>
 
-<img src="/images/paper_figures/[USENIX_Sec'25]-CAMP.png" alt="CAMP robust reinforcement learning overview" class="center" style="width:700px; max-width:100%; display:block; margin:auto;"/>
+<section class="project-section">
+  <h2>Method</h2>
+  <div class="project-two-column">
+    <div class="project-panel">
+      <h3>Local-to-global certification</h3>
+      <p>CAMP links local certified radii observed during training to the global certified radius, allowing robustness to be optimized through a tractable policy-training objective.</p>
+    </div>
+    <div class="project-panel">
+      <h3>Stable robust policy learning</h3>
+      <p>Policy imitation provides a stabilizing signal, helping CAMP train agents that preserve utility while improving provable robustness.</p>
+    </div>
+  </div>
+</section>
 
-## Overview
+<section class="project-section project-section--narrow">
+  <h2>Resources</h2>
+  <div class="project-resource-list">
+    <a href="https://arxiv.org/pdf/2501.17667">Paper</a>
+    <a href="https://github.com/NeuralSec/camp-robust-rl">Code</a>
+    <a href="https://zenodo.org/records/14729675">Zenodo Artifact</a>
+  </div>
+</section>
 
-We introduce Certified-rAdius-Maximizing Policy (**CAMP**) training for certifiably robust deep reinforcement learning agents. CAMP improves the robustness-return trade-off by optimizing policies with a surrogate loss derived from certified-radius maximization.
-
-The key insight is that the global certified radius can be derived from local certified radii based on training-time statistics. CAMP uses this relationship during training and introduces policy imitation to stabilize optimization.
-
-## Highlights
-
-- Proposes CAMP, a certified-radius-maximizing training paradigm for robust deep reinforcement learning.
-- Connects global certified robustness with local certified radii estimated from training-time statistics.
-- Uses policy imitation to stabilize CAMP training and improve robustness-return trade-offs.
-- Achieves up to twice the certified expected return compared with baseline methods.
-
-## Resources
-
-- [Paper](https://arxiv.org/pdf/2501.17667)
-- [Code](https://github.com/NeuralSec/camp-robust-rl)
-- [Zenodo Artifact](https://zenodo.org/records/14729675)
+<section class="project-section project-section--narrow">
+  <h2>BibTeX</h2>
+  <pre class="project-bibtex"><code>@inproceedings{wang2025camp,
+  title={CAMP in the Odyssey: Provably Robust Reinforcement Learning with Certified Radius Maximization},
+  author={Wang, Derui and Moore, Kristen and Goel, Diksha and Kim, Minjune and Li, Gang and Li, Yang and Doss, Robin and Xue, Minhui and Li, Bo and Camtepe, Seyit and Zhu, Liming},
+  booktitle={USENIX Security Symposium},
+  year={2025}
+}</code></pre>
+</section>

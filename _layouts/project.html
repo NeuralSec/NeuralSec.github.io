@@ -1,0 +1,62 @@
+---
+layout: default
+---
+
+{% include base_path %}
+
+<main class="project-page" role="main">
+  <section class="project-hero">
+    <div class="project-container project-hero__inner">
+      {% if page.venue %}
+        <p class="project-kicker">{{ page.venue }}</p>
+      {% endif %}
+
+      <h1 class="project-title">{{ page.title }}</h1>
+
+      {% if page.subtitle %}
+        <p class="project-subtitle">{{ page.subtitle }}</p>
+      {% endif %}
+
+      {% if page.authors %}
+        <p class="project-authors">{{ page.authors | markdownify | remove: '<p>' | remove: '</p>' }}</p>
+      {% endif %}
+
+      {% if page.affiliations %}
+        <p class="project-affiliations">
+          {% for affiliation in page.affiliations %}
+            <span>{{ affiliation }}</span>
+          {% endfor %}
+        </p>
+      {% endif %}
+
+      {% if page.award %}
+        <p class="project-award">{{ page.award }}</p>
+      {% endif %}
+
+      {% if page.links %}
+        <div class="project-actions" aria-label="Project links">
+          {% for link in page.links %}
+            <a class="project-action" href="{{ link.url }}" target="_blank" rel="noopener">{{ link.label }}</a>
+          {% endfor %}
+        </div>
+      {% endif %}
+    </div>
+  </section>
+
+  {% if page.hero_image %}
+    <section class="project-container project-teaser">
+      <figure>
+        <img src="{{ page.hero_image | relative_url }}" alt="{{ page.hero_alt | default: page.title }}">
+        {% if page.hero_caption %}
+          <figcaption>{{ page.hero_caption }}</figcaption>
+        {% endif %}
+      </figure>
+    </section>
+  {% endif %}
+
+  <section class="project-body">
+    <div class="project-container">
+      {{ content }}
+    </div>
+  </section>
+</main>
