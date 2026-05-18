@@ -18,7 +18,7 @@ We introduce the theory of certified learnability in this paper. Certified $(q,\
 
 ---
 
-### [USENIX Security'25] CAMP in the Odyssey: Provably Robust Reinforcement Learning with Certified Radius Maximization ([Project](/projects/camp-robust-rl/) | [Paper](https://arxiv.org/pdf/2501.17667) | [Code](https://github.com/NeuralSec/camp-robust-rl))
+### [USENIX Security'25] CAMP in the Odyssey: Provably Robust Reinforcement Learning with Certified Radius Maximization ([Project](/projects/camp-robust-rl/) | [Paper](https://www.usenix.org/conference/usenixsecurity25/presentation/wang-derui) | [Code](https://github.com/NeuralSec/camp-robust-rl))
 ***Derui Wang**, Kristen Moore, Diksha Goel, Minjune Kim, Gang Li, Yang Li, Robin Doss, Minhui Xue, Bo Li, Seyit Camtepe, Liming Zhu*
 
 <img src="../images/paper_figures/[USENIX_Sec'25]-CAMP.png" alt="drawing" class="center" style="width:700px; display: block; margin: auto;"/>
