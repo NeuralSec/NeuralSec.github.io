@@ -21,46 +21,138 @@ Outside of research, I love simple mathematical games like the [pirate game](htt
 ---
 
 # **News**
-<div style="overflow-y: scroll; height:200px; font-size: 16px" markdown=1>
-
-**[Nov. 2025]** Two papers on safeguarding audio-language models have been accepted to NeurIPS'25. One paper on red teaming video-language models has been accepted to AAAI'26.<br>
-**[Jun. 2025]** We are excited to host the [LAMPS](https://lamps-ccs.github.io/home/) workshop, colocated with ACM CCS 2025. We invite you to submit your high-quality research!<br>
-**[Feb. 2025]** Our paper "Provably Unlearnable Data Examples" got the Distinguished Paper Award at NDSS 2025!<br>
-**[Jan. 2025]** One paper on certified robustness of deep reinforcement learning and two papers on perturbative protections for audio data have been accepted to USENIX Security'25 Cycle 1.<br>
-**[Jan. 2025]** One paper on AI model availability control via modulation has been accepted to WWW'25.<br>
-**[Nov. 2024]** Our paper on certified learnability and another on reinforcement unlearning have been accepted to NDSS'25.<br>
-**[Jul. 2024]** I am invited to serve as a PC member for [IEEE SaTML'25](https://satml.org/).<br>
-**[Jun. 2024]** I am invited to serve as a PC member for [CCS'24-LAMPS](https://lamps-ccs.com) and the proceedings chair for [AJCAI'24](https://ajcai2024.org/).<br>
-**[May. 2024]** Our paper improving double sampling smoothing for addressing curse of dimensionality in randomized smoothing is accepted to ICML'24.<br>
-**[Apr. 2024]** I am invited to serve as a TPC member for [NDSS'25](https://www.ndss-symposium.org/ndss2025/).<br>
-**[Mar. 2024]** Two papers are accepted to IEEE SP'24 workshop and TDSC, respectively.<br>
-**[Dec. 2023]** Our paper in reinforcement adversarial attack against video recognition is accepted to AAAI'24.<br>
-**[Oct. 2023]** One paper in face recognition anti-spoofing is accepted to NeurIPS'23.<br>
-**[Sep. 2023]** I will serve as a reviewer for TheWebConf'24.<br>
-**[Jun. 2023]** I am invited to serve as a PC member for ACISP'24.<br>
-**[Nov. 2022]** One paper in style-transfer-based adversarial attack against video classification sytems is accepted to IEEE SP'23.<br>
-**[Oct. 2022]** Our paper in neural backdoor detection is accepted to NDSS'23.
-
-</div>
+<section class="news-board" aria-label="Recent news">
+  <ol class="news-list">
+    <li class="news-item news-item--featured">
+      <time class="news-date" datetime="2025-11">Nov. 2025</time>
+      <div class="news-copy">Two papers on safeguarding audio-language models have been accepted to NeurIPS'25. One paper on red teaming video-language models has been accepted to AAAI'26.</div>
+    </li>
+    <li class="news-item">
+      <time class="news-date" datetime="2025-06">Jun. 2025</time>
+      <div class="news-copy">We are excited to host the <a href="https://lamps-ccs.github.io/home/">LAMPS</a> workshop, colocated with ACM CCS 2025. We invite you to submit your high-quality research!</div>
+    </li>
+    <li class="news-item news-item--award">
+      <time class="news-date" datetime="2025-02">Feb. 2025</time>
+      <div class="news-copy">Our paper "Provably Unlearnable Data Examples" got the Distinguished Paper Award at NDSS 2025!</div>
+    </li>
+    <li class="news-item">
+      <time class="news-date" datetime="2025-01">Jan. 2025</time>
+      <div class="news-copy">One paper on certified robustness of deep reinforcement learning and two papers on perturbative protections for audio data have been accepted to USENIX Security'25 Cycle 1.</div>
+    </li>
+    <li class="news-item">
+      <time class="news-date" datetime="2025-01">Jan. 2025</time>
+      <div class="news-copy">One paper on AI model availability control via modulation has been accepted to WWW'25.</div>
+    </li>
+    <li class="news-item">
+      <time class="news-date" datetime="2024-11">Nov. 2024</time>
+      <div class="news-copy">Our paper on certified learnability and another on reinforcement unlearning have been accepted to NDSS'25.</div>
+    </li>
+    <li class="news-item">
+      <time class="news-date" datetime="2024-07">Jul. 2024</time>
+      <div class="news-copy">I am invited to serve as a PC member for <a href="https://satml.org/">IEEE SaTML'25</a>.</div>
+    </li>
+    <li class="news-item">
+      <time class="news-date" datetime="2024-06">Jun. 2024</time>
+      <div class="news-copy">I am invited to serve as a PC member for <a href="https://lamps-ccs.com">CCS'24-LAMPS</a> and the proceedings chair for <a href="https://ajcai2024.org/">AJCAI'24</a>.</div>
+    </li>
+    <li class="news-item">
+      <time class="news-date" datetime="2024-05">May. 2024</time>
+      <div class="news-copy">Our paper improving double sampling smoothing for addressing curse of dimensionality in randomized smoothing is accepted to ICML'24.</div>
+    </li>
+    <li class="news-item">
+      <time class="news-date" datetime="2024-04">Apr. 2024</time>
+      <div class="news-copy">I am invited to serve as a TPC member for <a href="https://www.ndss-symposium.org/ndss2025/">NDSS'25</a>.</div>
+    </li>
+    <li class="news-item">
+      <time class="news-date" datetime="2024-03">Mar. 2024</time>
+      <div class="news-copy">Two papers are accepted to IEEE SP'24 workshop and TDSC, respectively.</div>
+    </li>
+    <li class="news-item">
+      <time class="news-date" datetime="2023-12">Dec. 2023</time>
+      <div class="news-copy">Our paper in reinforcement adversarial attack against video recognition is accepted to AAAI'24.</div>
+    </li>
+    <li class="news-item">
+      <time class="news-date" datetime="2023-10">Oct. 2023</time>
+      <div class="news-copy">One paper in face recognition anti-spoofing is accepted to NeurIPS'23.</div>
+    </li>
+    <li class="news-item">
+      <time class="news-date" datetime="2023-09">Sep. 2023</time>
+      <div class="news-copy">I will serve as a reviewer for TheWebConf'24.</div>
+    </li>
+    <li class="news-item">
+      <time class="news-date" datetime="2023-06">Jun. 2023</time>
+      <div class="news-copy">I am invited to serve as a PC member for ACISP'24.</div>
+    </li>
+    <li class="news-item">
+      <time class="news-date" datetime="2022-11">Nov. 2022</time>
+      <div class="news-copy">One paper in style-transfer-based adversarial attack against video classification systems is accepted to IEEE SP'23.</div>
+    </li>
+    <li class="news-item">
+      <time class="news-date" datetime="2022-10">Oct. 2022</time>
+      <div class="news-copy">Our paper in neural backdoor detection is accepted to NDSS'23.</div>
+    </li>
+  </ol>
+</section>
 
 ---
 
 # **My Research Focuses**
-Certified robustness/data learnability at scale:
-- Certified learnability for data learnability control (*NDSS ’25*)
-- Certified robustness of DRL agents (*USENIX Sec ’25*)
-- Curse of dimensionality in certified robustness (*ICML ’24*)
+<section class="research-tree" aria-label="Research focus tree">
+  <div class="research-root">
+    <span class="research-root__label">Trustworthy AI</span>
+    <span class="research-root__text">Provable guarantees, causality, and human alignment</span>
+  </div>
 
-Data privacy and learnability control:
-- Perturbative availability poisons (*NDSS ’25, USENIX Sec ’25*)
-- Other perturbative protections and unlearning (*NDSS ’25, USENIX Sec ’25, NeurIPS '25...*)
+  <div class="research-branches">
+    <article class="research-branch">
+      <h3>Certified robustness & data learnability</h3>
+      <ul class="research-leaves">
+        <li>
+          <span>Certified learnability for data learnability control</span>
+          <em>NDSS '25</em>
+        </li>
+        <li>
+          <span>Certified robustness of DRL agents</span>
+          <em>USENIX Sec '25</em>
+        </li>
+        <li>
+          <span>Curse of dimensionality in certified robustness</span>
+          <em>ICML '24</em>
+        </li>
+      </ul>
+    </article>
 
-Red teaming and defensive solutions for ML systems:
-- Red teaming and robustness evaluation (*SP ’23, AAAI ’24, ...*)
-- Defenses against backdoors and adversarial attacks (*NDSS ’23, NeurIPS ’23, ACSAC ’19, ...*)
+    <article class="research-branch">
+      <h3>Data privacy & learnability control</h3>
+      <ul class="research-leaves">
+        <li>
+          <span>Perturbative availability poisons</span>
+          <em>NDSS '25, USENIX Sec '25</em>
+        </li>
+        <li>
+          <span>Perturbative protections and unlearning</span>
+          <em>NDSS '25, NeurIPS '25...</em>
+        </li>
+      </ul>
+    </article>
 
-My ultimate goal is to make AI truly trustworthy through *provable guarantees*, *causality*, and *human alignment*.
-For prospective students and researchers interested in collaboration: Please feel free to shoot me an email if these align with your research interests.
+    <article class="research-branch">
+      <h3>Red teaming & defensive ML systems</h3>
+      <ul class="research-leaves">
+        <li>
+          <span>Red teaming and robustness evaluation</span>
+          <em>SP '23, AAAI '24...</em>
+        </li>
+        <li>
+          <span>Defenses against backdoors and adversarial attacks</span>
+          <em>NDSS '23, NeurIPS '23, ACSAC '19...</em>
+        </li>
+      </ul>
+    </article>
+  </div>
+
+  <p class="research-note">For prospective students and researchers interested in collaboration: Please feel free to shoot me an email if these align with your research interests.</p>
+</section>
 
 ---
 
