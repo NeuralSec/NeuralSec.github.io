@@ -11,9 +11,9 @@ redirect_from:
 I received my Bachelor's degree in Optoelectronics Informatics from Huazhong University of Science and Technology (HUST), China, before transitioning to computer science for my doctoral studies in Australia, conducted jointly with [CSIRO](https://www.csiro.au/en/).
 Since 2020, I have continued my research career at Data61, first as a CERC Postdoctoral Fellow and now as a [Senior Research Scientist](https://en.wikipedia.org/wiki/Academic_ranks_(Australia_and_New_Zealand)), focusing on machine learning security and privacy.
 
-My research interests span adversarial robustness, neural backdoors, robustness and privacy certification, and the real-world security and privacy of machine learning systems. 
+My research interests span adversarial robustness, neural backdoors, robustness and privacy certification, and the real-world security and privacy of frontier AI systems. 
 In particular, I focus on the set: {*certified robustness and certified data learnability at scale*, *data privacy and learnability control*, *red-teaming and defensive strategies for ML systems*}. 
-I publish regularly in leading venues such as IEEE S&P, NDSS, USENIX Security, NeurIPS, ICML, AAAI, WWW, IEEE TDSC, and IEEE TIFS. 
+I have led AI security science streams in multiple national projects and publish regularly in leading venues such as IEEE S&P, NDSS, USENIX Security, NeurIPS, ICML, AAAI, WWW, IEEE TDSC, and IEEE TIFS. 
 I also serve on the program committees and review boards of major international conferences and journals, including NDSS, IEEE SaTML, IEEE S&P, USENIX Security, WWW, AAAI, NeurIPS, IEEE TDSC, IEEE TIFS, IEEE TNNLS, and IEEE TIP. 
 My work has been recognized with awards such as the [NDSS Distinguished Paper Award](https://www.ndss-symposium.org/ndss2025/), and has been featured in major national media outlets including ABC News, 7 News, The Age, and The Sydney Morning Herald.
 Outside of research, I love simple mathematical games like the [pirate game](https://steveomohundro.com/wp-content/uploads/2009/03/stewart99_a_puzzle_for_pirates.pdf). I have been playing drums since 2013 and enjoy table tennis as my favorite weekly sport.
@@ -100,7 +100,6 @@ Outside of research, I love simple mathematical games like the [pirate game](htt
 <section class="research-tree" aria-label="Research focus tree">
   <div class="research-root">
     <span class="research-root__label">Trustworthy AI</span>
-    <span class="research-root__text">Provable guarantees, causality, and human alignment</span>
   </div>
 
   <div class="research-branches">
@@ -151,8 +150,9 @@ Outside of research, I love simple mathematical games like the [pirate game](htt
     </article>
   </div>
 
-  <p class="research-note">For prospective students and researchers interested in collaboration: Please feel free to shoot me an email if these align with your research interests.</p>
 </section>
+
+My ongoing research interests also include **scalable oversight** and **mechanistic alignment** for strong intellignece. If you are a prospective student seeking CSIRO supervision or a researcher interested in collaboration, please feel free to contact me via email if your interests align with these research areas.
 
 ---
 
@@ -175,5 +175,3 @@ I have been fortunate to supervise/mentor and work with the following talented s
 - [ABC News](https://www.abc.net.au/news/science/2025-10-30/blocking-ais-from-training-on-your-content/105937872) and [ABC News Radio](https://www.abc.net.au/news/2025-08-12/csiro-develops-algorithm-to-prevent-deepfakes/105641122)
 - [The Age](https://www.theage.com.au/technology/csiro-breakthrough-shields-against-sexualised-ai-deepfakes-20250808-p5mlfm.html)
 - [The Sydney Morning Herald](https://www.smh.com.au/technology/csiro-breakthrough-shields-against-sexualised-ai-deepfakes-20250808-p5mlfm.html)
-
-As always, do not read too much into the media — read the papers :)
