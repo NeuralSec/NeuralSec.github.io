@@ -15,7 +15,7 @@ My research interests span adversarial robustness, neural backdoors, robustness 
 In particular, I focus on the set: {*certified robustness and certified data learnability at scale*, *data privacy and learnability control*, *red-teaming and defensive strategies for ML systems*}. 
 I have led AI security science streams in multiple national projects and publish regularly in leading venues such as IEEE S&P, NDSS, USENIX Security, NeurIPS, ICML, AAAI, WWW, IEEE TDSC, and IEEE TIFS. 
 I also serve on the program committees and review boards of major international conferences and journals, including NDSS, IEEE SaTML, IEEE S&P, USENIX Security, WWW, AAAI, NeurIPS, IEEE TDSC, IEEE TIFS, IEEE TNNLS, and IEEE TIP. 
-My work has been recognized with awards such as the [NDSS Distinguished Paper Award](https://www.ndss-symposium.org/ndss2025/), and has been featured in major national media outlets including ABC News, 7 News, The Age, and The Sydney Morning Herald.
+My work has been recognized with awards such as the [NDSS Distinguished Paper Award](https://www.ndss-symposium.org/ndss2025/), and has been featured in major national media outlets including ABC News, national news from 7NEWS, The Age, and The Sydney Morning Herald.
 Outside of research, I love simple mathematical games like the [pirate game](https://steveomohundro.com/wp-content/uploads/2009/03/stewart99_a_puzzle_for_pirates.pdf). I have been playing drums since 2013 and enjoy table tennis as my favorite weekly sport.
 
 ---
@@ -152,7 +152,7 @@ Outside of research, I love simple mathematical games like the [pirate game](htt
 
 </section>
 
-My ongoing research interests also include **scalable oversight** and **mechanistic alignment** for strong intellignece. If you are a prospective student seeking CSIRO supervision or a researcher interested in collaboration, please feel free to contact me via email if your interests align with these research areas.
+My ongoing research interests also include **scalable oversight** and **mechanistic alignment** for strong intelligence. If you are a prospective student seeking CSIRO supervision or a researcher interested in collaboration, please feel free to contact me via email if your interests align with these research areas.
 
 ---
 
