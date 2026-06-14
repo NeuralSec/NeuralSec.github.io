@@ -104,10 +104,10 @@ Outside of research, I love simple mathematical games like the [pirate game](htt
 
   <div class="research-branches">
     <article class="research-branch">
-      <h3>Certified robustness & data learnability</h3>
+      <h3>Certified robustness & shortcut learnability</h3>
       <ul class="research-leaves">
         <li>
-          <span>Certified learnability for data learnability control</span>
+          <span>Certified shortcut learnability</span>
           <em>NDSS '25</em>
         </li>
         <li>
@@ -136,7 +136,7 @@ Outside of research, I love simple mathematical games like the [pirate game](htt
     </article>
 
     <article class="research-branch">
-      <h3>Red teaming & defensive ML systems</h3>
+      <h3>Red teaming & secure learning systems</h3>
       <ul class="research-leaves">
         <li>
           <span>Red teaming and robustness evaluation</span>
