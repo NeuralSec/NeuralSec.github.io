@@ -2,6 +2,7 @@
 layout: project
 title: "Provably Unlearnable Data Examples"
 permalink: /projects/provably-unlearnable-data-examples/
+sitemap: true
 excerpt: "Project page for Provably Unlearnable Data Examples, NDSS 2025 Distinguished Paper Award."
 venue: "NDSS 2025"
 subtitle: "Certified learnability for understanding and controlling how much a dataset can support model training."

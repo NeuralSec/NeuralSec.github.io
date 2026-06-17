@@ -2,6 +2,7 @@
 layout: project
 title: "CAMP in the Odyssey: Provably Robust Reinforcement Learning with Certified Radius Maximization"
 permalink: /projects/camp-robust-rl/
+sitemap: true
 excerpt: "Project page for CAMP in the Odyssey: Provably Robust Reinforcement Learning with Certified Radius Maximization."
 venue: "USENIX Security 2025"
 subtitle: "Certified-radius-maximizing policy training for robust deep reinforcement learning agents."

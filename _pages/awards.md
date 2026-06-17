@@ -3,6 +3,7 @@ layout: archive
 title: "Awards"
 permalink: /awards/
 author_profile: true
+sitemap: true
 ---
 
 - Distinguished Paper Award, NDSS Symposium, 2025

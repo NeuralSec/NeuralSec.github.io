@@ -3,35 +3,41 @@ layout: archive
 title: "Sitemap"
 permalink: /sitemap/
 author_profile: true
+sitemap: false
 ---
 
 {% include base_path %}
 
-A list of all the posts and pages found on the site. For you robots out there is an [XML version]({{ base_path }}/sitemap.xml) available for digesting as well.
+A list of public pages on the site. For robots, an [XML version]({{ base_path }}/sitemap.xml) is available as well.
 
 <h2>Pages</h2>
-{% for post in site.pages %}
-  {% include archive-single.html %}
-{% endfor %}
-
-<h2>Posts</h2>
-{% for post in site.posts %}
-  {% include archive-single.html %}
-{% endfor %}
-
-{% capture written_label %}'None'{% endcapture %}
-
-{% for collection in site.collections %}
-{% unless collection.output == false or collection.label == "posts" %}
-  {% capture label %}{{ collection.label }}{% endcapture %}
-  {% if label != written_label %}
-  <h2>{{ label }}</h2>
-  {% capture written_label %}{{ label }}{% endcapture %}
-  {% endif %}
-{% endunless %}
-{% for post in collection.docs %}
-  {% unless collection.output == false or collection.label == "posts" %}
+{% assign visible_pages = site.pages | where: "sitemap", true | sort: "title" %}
+{% for post in visible_pages %}
+  {% unless post.published == false or post.hidden == true %}
   {% include archive-single.html %}
   {% endunless %}
 {% endfor %}
+
+{% assign visible_posts = site.posts | where: "sitemap", true %}
+{% if visible_posts.size > 0 %}
+<h2>Posts</h2>
+{% for post in visible_posts %}
+  {% unless post.published == false or post.hidden == true %}
+  {% include archive-single.html %}
+  {% endunless %}
+{% endfor %}
+{% endif %}
+
+{% for collection in site.collections %}
+{% unless collection.output == false or collection.label == "posts" %}
+  {% assign visible_docs = collection.docs | where: "sitemap", true %}
+  {% if visible_docs.size > 0 %}
+  <h2>{{ collection.label }}</h2>
+  {% for post in visible_docs %}
+    {% unless post.published == false or post.hidden == true %}
+  {% include archive-single.html %}
+    {% endunless %}
+  {% endfor %}
+  {% endif %}
+{% endunless %}
 {% endfor %}
