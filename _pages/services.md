@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## **TPC Member**
-- 2027: [NDSS](https://www.ndss-symposium.org/ndss2027/)
+- 2027: [NDSS](https://www.ndss-symposium.org/ndss2027/), [USENIX Security](https://www.usenix.org/conference/usenixsecurity27).
 - 2026: [NDSS](https://www.ndss-symposium.org/ndss2026/), [IEEE SaTML](https://satml.org/), [AAAI](https://aaai.org/conference/aaai/aaai-26/).
 - 2025: [NDSS](https://www.ndss-symposium.org/ndss2025/), [IEEE SaTML](https://satml.org/2025/), [TheWebConf](https://www2025.thewebconf.org/).
 - 2024: [TheWebConf](https://www2024.thewebconf.org/), [CCS-LAMPS](https://lamps-ccs.com), [ACISP](https://www.acisp24.com/), [ACML](https://www.acml-conf.org/2024/).
