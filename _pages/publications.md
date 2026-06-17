@@ -48,7 +48,7 @@ Compared to the primitive DSRS, the increase in certified accuracy provided by E
 
 ---
 
-### [USENIX Security'25] SafeSpeech: Robust and Universal Voice Protection Against Malicious Speech Synthesis (Paper | [Code](https://github.com/wxzyd123/SafeSpeech))
+### [USENIX Security'25] SafeSpeech: Robust and Universal Voice Protection Against Malicious Speech Synthesis ([Paper](https://www.usenix.org/conference/usenixsecurity25/presentation/zhang-zhisheng) | [Code](https://github.com/wxzyd123/SafeSpeech))
 *Zhisheng Zhang, **Derui Wang**, Qianyi Yang, Pengyang Huang, Junhan Pu, Yuxin Cao, Kai Ye, Jie Hao*
 
 <img src="../images/paper_figures/[USENIX_Sec'25]-SafeSpeech.png" alt="drawing" class="center" style="width:700px; display: block; margin: auto;"/>
