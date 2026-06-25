@@ -7,7 +7,7 @@ sitemap: true
 ---
 
 ## **TPC Member**
-- 2027: [NDSS](https://www.ndss-symposium.org/ndss2027/), [USENIX Security](https://www.usenix.org/conference/usenixsecurity27), [CCS-LAMPS](https://lamps2026-ccs.github.io/home/)
+- 2027: [NDSS](https://www.ndss-symposium.org/ndss2027/), [USENIX Security](https://www.usenix.org/conference/usenixsecurity27), [CCS-LAMPS](https://lamps2026-ccs.github.io/home/), [AAAI](https://aaai.org/conference/aaai/aaai-27/)
 - 2026: [NDSS](https://www.ndss-symposium.org/ndss2026/), [IEEE SaTML](https://satml.org/), [AAAI](https://aaai.org/conference/aaai/aaai-26/)
 - 2025: [NDSS](https://www.ndss-symposium.org/ndss2025/), [IEEE SaTML](https://satml.org/2025/)
 - 2024: [CCS-LAMPS](https://lamps-ccs.com), [ACISP](https://www.acisp24.com/), [ACML](https://www.acml-conf.org/2024/)
