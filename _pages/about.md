@@ -153,7 +153,7 @@ Outside of research, I love simple mathematical games like the [pirate game](htt
 
 </section>
 
-My ongoing research interests also include **scalable oversight** and **mechanistic alignment** for strong intelligence. If you are a prospective student seeking CSIRO supervision or a researcher interested in collaboration, please feel free to contact me via email if your interests align with these research areas.
+My ongoing research interests also include **scalable oversight** and **mechanistic alignment** for strong intelligence. If you are a prospective student (domestic) seeking CSIRO supervision or a researcher (domestic or international) interested in collaboration, please feel free to contact me via email if your interests align with these research areas.
 
 ---
 
