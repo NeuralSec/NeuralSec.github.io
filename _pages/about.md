@@ -9,8 +9,8 @@ redirect_from:
   - /about.html
 ---
 
-I received my Bachelor's degree in Optoelectronics Informatics from Huazhong University of Science and Technology (HUST), China, before transitioning to computer science for my doctoral studies in Australia, conducted jointly with [CSIRO](https://www.csiro.au/en/).
-Since 2020, I have continued my research career at Data61, first as a CERC Postdoctoral Fellow and now as a [Senior Research Scientist](https://en.wikipedia.org/wiki/Academic_ranks_(Australia_and_New_Zealand)), focusing on machine learning security and privacy.
+I received my Bachelor's degree in Optoelectronics Informatics from Huazhong University of Science and Technology (HUST), China, before transitioning to computer science for my PhD in Australia, conducted jointly with [CSIRO](https://www.csiro.au/en/).
+Since 2020, I have continued my research career at CSIRO, first as a CERC Postdoctoral Fellow and now as a [Senior Research Scientist](https://en.wikipedia.org/wiki/Academic_ranks_(Australia_and_New_Zealand)) (equivalent to Senior Lecturer in in Australian universities or tenured Assistant Professor in North American universities), focusing on machine learning security and privacy.
 
 My research interests span adversarial robustness, neural backdoors, robustness and privacy certification, and the real-world security and privacy of frontier AI systems. 
 In particular, I focus on the set: {*certified robustness and certified data learnability at scale*, *data privacy and learnability control*, *red-teaming and defensive strategies for ML systems*}. 
