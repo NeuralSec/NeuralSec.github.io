@@ -171,7 +171,7 @@ I have been fortunate to supervise/mentor and work with the following talented s
 ---
 
 # **Media Coverage and Impact**
-- UK-AU AISI Alignment Project, [honourable mention at Australian AI Safety Forum](https://www.minister.industry.gov.au/charlton/media/ai-safety-forum), The Hon Dr Andrew Charlton MP, Assistant Minister for Science, Technology and the Digital Economy.
+- Alignment Project, [honourable mention at Australian AI Safety Forum](https://www.minister.industry.gov.au/charlton/media/ai-safety-forum), The Hon Dr Andrew Charlton MP, Assistant Minister for Science, Technology and the Digital Economy.
 - [CSIRO](https://www.csiro.au/en/news/All/News/2025/August/New-research-could-block-AI-learning-from-your-online-content?utm_source=D61SM25&utm_medium=D61SM25&utm_campaign=AICP25)
 - [National News, 7NEWS](https://7news.com.au/video/news/protecting-images-from-deep-fake-abuse-with-ai-bc-6376779433112) or on [YouTube](https://www.youtube.com/watch?v=n1U6yBOc2QM)
 - [ABC News](https://www.abc.net.au/news/science/2025-10-30/blocking-ais-from-training-on-your-content/105937872) and [ABC News Radio](https://www.abc.net.au/news/2025-08-12/csiro-develops-algorithm-to-prevent-deepfakes/105641122)
