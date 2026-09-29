@@ -6,6 +6,7 @@ author_profile: true
 sitemap: true
 ---
 
+- Best Paper Award Runner-Up, ECCV LifeGenIP, 2026
 - Distinguished Paper Award, NDSS Symposium, 2025
 - Science Excellence Award, CSIRO's Data61, 2025
 - Collaboration Award, CSIRO's Data61, 2025
